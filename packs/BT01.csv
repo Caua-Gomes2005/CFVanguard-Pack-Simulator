@@ -1,0 +1,81 @@
+set,id,name,grade,clan,type,rarity
+BT01,001,"King of Knights, Alfred",3,Royal Paladin,Normal Unit,RRR
+BT01,002,Blaster Blade,2,Royal Paladin,Normal Unit,RRR
+BT01,003,Barcgal,0,Royal Paladin,Normal Unit,RRR
+BT01,004,Dragonic Overlord,3,Kagero,Normal Unit,RRR
+BT01,005,"Embodiment of Victory, Aleph",3,Kagero,Normal Unit,RRR
+BT01,006,CEO Amaterasu,3,Oracle Think Tank,Normal Unit,RRR
+BT01,007,"Battle Sister, Cocoa",1,Oracle Think Tank,Normal Unit,RRR
+BT01,008,Asura Kaiser,3,Nova Grappler,Normal Unit,RRR
+BT01,009,"Demon Slaying Knight, Lohengrin",3,Royal Paladin,Normal Unit,RR
+BT01,010,"Solitary Knight, Gancelot",3,Royal Paladin,Normal Unit,RR
+BT01,011,"Flash Shield, Iseult",1,Royal Paladin,Normal Unit,RR
+BT01,012,"Future Knight, Llew",0,Royal Paladin,Critical Trigger,RR
+BT01,013,Vortex Dragon,3,Kagero,Normal Unit,RR
+BT01,014,"Dragon Knight, Aleph",2,Kagero,Normal Unit,RR
+BT01,015,"Wyvern Guard, Barri",1,Kagero,Normal Unit,RR
+BT01,016,"Lizard Soldier, Conroe",0,Kagero,Normal Unit,RR
+BT01,017,Maiden of Libra,2,Oracle Think Tank,Normal Unit,RR
+BT01,018,"Battle Sister, Mocha",2,Oracle Think Tank,Normal Unit,RR
+BT01,019,"Battle Sister, Chocolat",1,Oracle Think Tank,Normal Unit,RR
+BT01,020,Juggernaut Maximum,3,Spike Brothers,Normal Unit,RR
+BT01,021,"Knight of Silence, Gallatin",2,Royal Paladin,Normal Unit,R
+BT01,022,"Dragon Knight, Nehalem",2,Kagero,Normal Unit,R
+BT01,023,"Wyvern Strike, Tejas",2,Kagero,Normal Unit,R
+BT01,024,"Embodiment of Spear, Tahr",0,Kagero,Critical Trigger,R
+BT01,025,"Oracle Guardian, Apollon",3,Oracle Think Tank,Normal Unit,R
+BT01,026,"Oracle Guardian, Wiseman",2,Oracle Think Tank,Normal Unit,R
+BT01,027,Lozenge Magus,0,Oracle Think Tank,Heal Trigger,R
+BT01,028,Mr. Invincible,3,Nova Grappler,Normal Unit,R
+BT01,029,Brutal Jack,2,Nova Grappler,Normal Unit,R
+BT01,030,King of Sword,2,Nova Grappler,Normal Unit,R
+BT01,031,Queen of Heart,1,Nova Grappler,Normal Unit,R
+BT01,032,Battleraizer,0,Nova Grappler,Stand Trigger,R
+BT01,033,"Tyrant, Deathrex",3,Tachikaze,Normal Unit,R
+BT01,034,"Assault Dragon, Blightops",2,Tachikaze,Normal Unit,R
+BT01,035,"Stealth Dragon, Voidmaster",3,Nubatama,Normal Unit,R
+BT01,036,Demon Eater,3,Dark Irregulars,Normal Unit,R
+BT01,037,Monster Frank,3,Granblue,Normal Unit,R
+BT01,038,Commodore Blueblood,2,Granblue,Normal Unit,R
+BT01,039,Hell Spider,3,Megacolony,Normal Unit,R
+BT01,040,Bloody Hercules,2,Megacolony,Normal Unit,R
+BT01,041,"Covenant Knight, Randolf",2,Royal Paladin,Normal Unit,C
+BT01,042,"Little Sage, Marron",1,Royal Paladin,Normal Unit,C
+BT01,043,"Lake Maiden, Lien",1,Royal Paladin,Normal Unit,C
+BT01,044,Wingal,1,Royal Paladin,Normal Unit,C
+BT01,045,"Weapons Dealer, Govannon",0,Royal Paladin,Draw Trigger,C
+BT01,046,Flogal,0,Royal Paladin,Stand Trigger,C
+BT01,047,"Yggdrasil Maiden, Elaine",0,Royal Paladin,Heal Trigger,C
+BT01,048,"Embodiment of Armor, Bahr",1,Kagero,Normal Unit,C
+BT01,049,"Dragon Monk, Gojo",1,Kagero,Normal Unit,C
+BT01,050,"Wyvern Strike, Jarran",1,Kagero,Normal Unit,C
+BT01,051,"Dragon Dancer, Monica",0,Kagero,Draw Trigger,C
+BT01,052,"Lizard Soldier, Ganlu",0,Kagero,Stand Trigger,C
+BT01,053,"Dragon Monk, Genjo",0,Kagero,Heal Trigger,C
+BT01,054,"Oracle Guardian, Gemini",1,Oracle Think Tank,Normal Unit,C
+BT01,055,"Weather Girl, Milk",1,Oracle Think Tank,Normal Unit,C
+BT01,056,"Oracle Guardian, Nike",0,Oracle Think Tank,Critical Trigger,C
+BT01,057,Dream Eater,0,Oracle Think Tank,Draw Trigger,C
+BT01,058,Miracle Kid,0,Oracle Think Tank,Draw Trigger,C
+BT01,059,Hungry Dumpty,2,Nova Grappler,Normal Unit,C
+BT01,060,Tough Boy,1,Nova Grappler,Normal Unit,C
+BT01,061,"Screamin' and Dancin' Announcer, Shout",1,Nova Grappler,Normal Unit,C
+BT01,062,Clay-doll Mechanic,1,Nova Grappler,Normal Unit,C
+BT01,063,Shining Lady,0,Nova Grappler,Critical Trigger,C
+BT01,064,Lucky Girl,0,Nova Grappler,Stand Trigger,C
+BT01,065,"Ring Girl, Clara",0,Nova Grappler,Heal Trigger,C
+BT01,066,Sonic Noa,1,Tachikaze,Normal Unit,C
+BT01,067,"Ironclad Dragon, Shieldon",0,Tachikaze,Normal Unit,C
+BT01,068,"Stealth Beast, Chigasumi",2,Nubatama,Normal Unit,C
+BT01,069,"Stealth Dragon, Dreadmaster",1,Nubatama,Normal Unit,C
+BT01,070,"Stealth Beast, Hagakure",0,Nubatama,Normal Unit,C
+BT01,071,Blue Dust,2,Dark Irregulars,Normal Unit,C
+BT01,072,Nightmare Baby,1,Dark Irregulars,Normal Unit,C
+BT01,073,Rock the Wall,0,Dark Irregulars,Normal Unit,C
+BT01,074,"Highspeed, Brakki",2,Spike Brothers,Normal Unit,C
+BT01,075,Wonder Boy,1,Spike Brothers,Normal Unit,C
+BT01,076,"Redshoe, Milly",0,Spike Brothers,Normal Unit,C
+BT01,077,"Dandy Guy, Romario",1,Granblue,Normal Unit,C
+BT01,078,Guiding Zombie,0,Granblue,Normal Unit,C
+BT01,079,Karma Queen,1,Megacolony,Normal Unit,C
+BT01,080,Madame Mirage,0,Megacolony,Normal Unit,C

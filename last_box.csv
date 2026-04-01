@@ -1,0 +1,36 @@
+set,id,name,grade,clan,type,rarity,qtt
+BT01,9,"Demon Slaying Knight, Lohengrin",3,Royal Paladin,Normal Unit,RR,1
+BT01,11,"Flash Shield, Iseult",1,Royal Paladin,Normal Unit,RR,1
+BT01,16,"Lizard Soldier, Conroe",0,Kagero,Normal Unit,RR,1
+BT01,17,Maiden of Libra,2,Oracle Think Tank,Normal Unit,RR,1
+BT01,19,"Battle Sister, Chocolat",1,Oracle Think Tank,Normal Unit,RR,1
+BT01,21,"Knight of Silence, Gallatin",2,Royal Paladin,Normal Unit,R,1
+BT01,22,"Dragon Knight, Nehalem",2,Kagero,Normal Unit,R,1
+BT01,24,"Embodiment of Spear, Tahr",0,Kagero,Critical Trigger,R,1
+BT01,29,Brutal Jack,2,Nova Grappler,Normal Unit,R,1
+BT01,33,"Tyrant, Deathrex",3,Tachikaze,Normal Unit,R,1
+BT01,41,"Covenant Knight, Randolf",2,Royal Paladin,Normal Unit,C,1
+BT01,43,"Lake Maiden, Lien",1,Royal Paladin,Normal Unit,C,4
+BT01,46,Flogal,0,Royal Paladin,Stand Trigger,C,2
+BT01,47,"Yggdrasil Maiden, Elaine",0,Royal Paladin,Heal Trigger,C,2
+BT01,48,"Embodiment of Armor, Bahr",1,Kagero,Normal Unit,C,1
+BT01,49,"Dragon Monk, Gojo",1,Kagero,Normal Unit,C,3
+BT01,50,"Wyvern Strike, Jarran",1,Kagero,Normal Unit,C,1
+BT01,51,"Dragon Dancer, Monica",0,Kagero,Draw Trigger,C,2
+BT01,54,"Oracle Guardian, Gemini",1,Oracle Think Tank,Normal Unit,C,1
+BT01,56,"Oracle Guardian, Nike",0,Oracle Think Tank,Critical Trigger,C,1
+BT01,57,Dream Eater,0,Oracle Think Tank,Draw Trigger,C,1
+BT01,58,Miracle Kid,0,Oracle Think Tank,Draw Trigger,C,1
+BT01,59,Hungry Dumpty,2,Nova Grappler,Normal Unit,C,2
+BT01,60,Tough Boy,1,Nova Grappler,Normal Unit,C,1
+BT01,61,"Screamin' and Dancin' Announcer, Shout",1,Nova Grappler,Normal Unit,C,2
+BT01,63,Shining Lady,0,Nova Grappler,Critical Trigger,C,3
+BT01,65,"Ring Girl, Clara",0,Nova Grappler,Heal Trigger,C,1
+BT01,66,Sonic Noa,1,Tachikaze,Normal Unit,C,2
+BT01,72,Nightmare Baby,1,Dark Irregulars,Normal Unit,C,1
+BT01,73,Rock the Wall,0,Dark Irregulars,Normal Unit,C,1
+BT01,74,"Highspeed, Brakki",2,Spike Brothers,Normal Unit,C,1
+BT01,76,"Redshoe, Milly",0,Spike Brothers,Normal Unit,C,2
+BT01,77,"Dandy Guy, Romario",1,Granblue,Normal Unit,C,2
+BT01,79,Karma Queen,1,Megacolony,Normal Unit,C,1
+BT01,80,Madame Mirage,0,Megacolony,Normal Unit,C,1
