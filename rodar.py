@@ -3,11 +3,16 @@ import random as rd
 
 def escolhe_pacote(name):
     data = pd.read_csv(f'packs\{name}.csv')
-    for index, row in data.iterrows():
-        if name == 'save':
-            print(f'{row["id"]} {row["name"]} - {row["grade"]} - {row["clan"]} - {row["type"]} - {row["rarity"]} - {row["qtt"]}')
-        else:    
-            print(f'{row["id"]} {row["name"]} - {row["grade"]} - {row["clan"]} - {row["type"]} - {row["rarity"]}')
+    for index, row in data.iterrows(): 
+        print(f'{row["id"]} {row["name"]} - {row["grade"]} - {row["clan"]} - {row["type"]} - {row["rarity"]}')
+
+def ver_colecao(nome):
+    try:
+        save = pd.read_csv(f'{nome}.csv')
+        for index, row in save.iterrows():
+            print(f'{row["id"]} {row["name"]} - {row["grade"]} - {row["clan"]} - {row["type"]} - {row["rarity"]} - Qtt: {row["qtt"]}')
+    except:
+        print('Você ainda não tem nenhuma carta na coleção! Abra alguns pacotes para começar a colecionar!')
 
 def rodar_pacote(name):
     data = pd.read_csv(f'packs\{name}.csv')
@@ -73,17 +78,25 @@ def rodar_box(name, qtt):
 print('Seja bem vindo ao CF Vanguard Pack Simulator!')
 
 print('O que gostaria de fazer?: ')
-option = input('1 - Rodar pacotes \n2 - Ver cartas disponíveis \n3 - Sair \nDigite o número da opção desejada: ')
+option = input('1 - Rodar pacotes \n2 - Ver pacotes disponíveis \n3 - Ver sua coleção \n4 - Sair \nDigite o número da opção desejada: ')
 
 if option == '1':
     name = input('Digite o nome do pacote (ex: BT01): ')
     qtt = int(input('Digite a quantidade de pacotes que deseja abrir: '))
-    box = rodar_box(name, qtt)
+    box = rodar_box(name.upper(), qtt)
     print('Pacotes abertos! As cartas foram salvas em last_box.csv e a coleção foi atualizada em save.csv')
-    print(box)
+    ver_colecao('last_box')
     input('\nPressione Enter para sair...')
 
 if option == '2':
-    name = input('Digite o nome do pacote (ex: BT01/Para ver as suas cartas digite save): ')
+    name = input('Digite o nome do pacote (ex: BT01): ')
     escolhe_pacote(name)
+    input('\nPressione Enter para sair...')
+
+if option == '3':
+    ver_colecao('save')
+    input('\nPressione Enter para sair...')
+
+if option == '4':
+    print('Obrigado por usar o CF Vanguard Pack Simulator! Até a próxima!')
     input('\nPressione Enter para sair...')
