@@ -1,16 +1,27 @@
-import pandas as pd
+import subprocess
+import sys
+
+def instalar(package):
+    subprocess.check_call([sys.executable, "-m", "pip", "install", package])
+
+try:
+    import pandas as pd# Exemplo de biblioteca
+except ImportError:
+    instalar('pandas')
+    import pandas as pd
+
 import random as rd
 
 def escolhe_pacote(name):
     data = pd.read_csv(f'packs\{name}.csv')
     for index, row in data.iterrows(): 
-        print(f'{row["id"]} {row["name"]} - {row["grade"]} - {row["clan"]} - {row["type"]} - {row["rarity"]}')
+        print(f'0{row["id"]} {row["name"]} - {row["grade"]} - {row["clan"]} - {row["type"]} - {row["rarity"]}')
 
 def ver_colecao(nome):
     try:
         save = pd.read_csv(f'{nome}.csv')
         for index, row in save.iterrows():
-            print(f'{row["id"]} {row["name"]} - {row["grade"]} - {row["clan"]} - {row["type"]} - {row["rarity"]} - Qtt: {row["qtt"]}')
+            print(f'0{row["id"]} {row["name"]} - {row["grade"]} - {row["clan"]} - {row["type"]} - {row["rarity"]} - Qtt: {row["qtt"]}')
     except:
         print('Você ainda não tem nenhuma carta na coleção! Abra alguns pacotes para começar a colecionar!')
 
