@@ -82,7 +82,7 @@ def rodar_box(name, qtt):
     box.sort_values(by=['id'], inplace=True)
     box.to_csv('last_box.csv', index=False)
     save = atualizar_save(save, box)
-    save.sort_values(by=['id'], inplace=True)
+    save.sort_values(by=['set', 'id'], inplace=True)
     save.to_csv('save.csv', index=False)
     return box
 
@@ -111,3 +111,4 @@ if option == '3':
 if option == '4':
     print('Obrigado por usar o CF Vanguard Pack Simulator! Até a próxima!')
     input('\nPressione Enter para sair...')
+
