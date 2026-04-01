@@ -1,0 +1,81 @@
+set,id,name,grade,clan,type,rarity
+BT02,001,"Soul Saver Dragon",3,Royal Paladin,Normal Unit,RRR
+BT02,002,"Blaster Dark",2,Shadow Paladin,Normal Unit,RRR
+BT02,003,"Blazing Flare Dragon",3,Kagero,Normal Unit,RRR
+BT02,004,"Maiden of Libra",2,Oracle Think Tank,Normal Unit,RRR
+BT02,005,"Lion Mane, King of Beasts",3,Great Nature,Normal Unit,RRR
+BT02,006,"Goddess of Flower Divination, Sakuya",3,Oracle Think Tank,Normal Unit,RRR
+BT02,007,"Sky High Walker",1,Nova Grappler,Normal Unit,RRR
+BT02,008,"Ruins Shade",2,Granblue,Normal Unit,RRR
+BT02,009,"High Dog Breeder, Akane",2,Royal Paladin,Normal Unit,RR
+BT02,010,"Pantyhose, Catcher",2,Spike Brothers,Normal Unit,RR
+BT02,011,"Baron, Amon",3,Dark Irregulars,Normal Unit,RR
+BT02,012,"Gwyn the Ripper",2,Dark Irregulars,Normal Unit,RR
+BT02,013,"Blazing Core Dragon",2,Kagero,Normal Unit,RR
+BT02,014,"Iron Tail Dragon",2,Kagero,Normal Unit,RR
+BT02,015,"Gatling Claw Dragon",0,Kagero,Draw Trigger,RR
+BT02,016,"Darkside Pegasus",1,Pale Moon,Normal Unit,RR
+BT02,017,"Barking Manticore",3,Pale Moon,Normal Unit,RR
+BT02,018,"Mirror Image, Bunny",2,Pale Moon,Normal Unit,RR
+BT02,019,"Hadron Badon",2,Pale Moon,Normal Unit,RR
+BT02,020,"Skull Juggler",1,Pale Moon,Normal Unit,RR
+BT02,021,"Gigantech Dozer",3,Royal Paladin,Normal Unit,R
+BT02,022,"Knight of Truth, Gordon",2,Royal Paladin,Normal Unit,R
+BT02,023,"Toypugal",1,Royal Paladin,Normal Unit,R
+BT02,024,"Flame Edge Dragon",2,Kagero,Normal Unit,R
+BT02,025,"Dragon Dancer, Bernadette",2,Kagero,Normal Unit,R
+BT02,026,"Dragon Monk, Enbi",1,Kagero,Normal Unit,R
+BT02,027,"Lizard Soldier, Raopia",1,Kagero,Normal Unit,R
+BT02,028,"Full Moon Specter",3,Granblue,Normal Unit,R
+BT02,029,"Stormride Ghost Ship",3,Granblue,Normal Unit,R
+BT02,030,"Captain Nightmist",2,Granblue,Normal Unit,R
+BT02,031,"Deadly Spirit",2,Granblue,Normal Unit,R
+BT02,032,"Deadly Nightmare",1,Granblue,Normal Unit,R
+BT02,033,"Edel Rose",3,Dark Irregulars,Normal Unit,R
+BT02,034,"Blue Dust",2,Dark Irregulars,Normal Unit,R
+BT02,035,"Doreen the Thruster",1,Dark Irregulars,Normal Unit,R
+BT02,036,"Prisoner Beast",1,Dark Irregulars,Normal Unit,R
+BT02,037,"Alluring Succubus",1,Dark Irregulars,Normal Unit,R
+BT02,038,"Midnight Bunny",1,Pale Moon,Normal Unit,R
+BT02,039,"Turquoise Beast Tamer",2,Pale Moon,Normal Unit,R
+BT02,040,"Crimson Beast Tamer",2,Pale Moon,Normal Unit,R
+BT02,041,"Knight of Tribulations, Galahad",3,Royal Paladin,Normal Unit,C
+BT02,042,"Knight of Quests, Galahad",2,Royal Paladin,Normal Unit,C
+BT02,043,"Knight of Harvest, Galahad",1,Royal Paladin,Normal Unit,C
+BT02,044,"Drangal",0,Royal Paladin,Normal Unit,C
+BT02,045,"Alabaster Owl",0,Royal Paladin,Critical Trigger,C
+BT02,046,"Margal",0,Royal Paladin,Draw Trigger,C
+BT02,047,"Borgal",0,Royal Paladin,Heal Trigger,C
+BT02,048,"Amber Dragon, Eclipse",3,Kagero,Normal Unit,C
+BT02,049,"Amber Dragon, Dusk",2,Kagero,Normal Unit,C
+BT02,050,"Amber Dragon, Dawn",1,Kagero,Normal Unit,C
+BT02,051,"Amber Dragon, Daylight",0,Kagero,Normal Unit,C
+BT02,052,"Flame Seed Salamander",0,Kagero,Normal Unit,C
+BT02,053,"Blue Ray Dracokid",0,Kagero,Critical Trigger,C
+BT02,054,"Dragon Dancer, Rakshasa",0,Kagero,Stand Trigger,C
+BT02,055,"Dragon Monk, Genjo",0,Kagero,Heal Trigger,C
+BT02,056,"Dragon Undead, Skull Dragon",3,Granblue,Normal Unit,C
+BT02,057,"Skeleton Swordsman",2,Granblue,Normal Unit,C
+BT02,058,"Evil Shade",1,Granblue,Normal Unit,C
+BT02,059,"Rough Seas Banshee",0,Granblue,Critical Trigger,C
+BT02,060,"Knight Spirit",0,Granblue,Critical Trigger,C
+BT02,061,"Hook-wielding Zombie",0,Granblue,Draw Trigger,C
+BT02,062,"Rick the Ghost",0,Granblue,Heal Trigger,C
+BT02,063,"Doctor Rouge",0,Granblue,Heal Trigger,C
+BT02,064,"Stil Vampire",3,Dark Irregulars,Normal Unit,C
+BT02,065,"Dark Soul Conductor",2,Dark Irregulars,Normal Unit,C
+BT02,066,"Hysteric Shirley",0,Dark Irregulars,Draw Trigger,C
+BT02,067,"Blitzritter",0,Dark Irregulars,Critical Trigger,C
+BT02,068,"Cursed Doctor",0,Dark Irregulars,Heal Trigger,C
+BT02,069,"Dark Knight of Nightmareland",0,Dark Irregulars,Critical Trigger,C
+BT02,070,"Mad Hatter of Nightmareland",0,Dark Irregulars,Draw Trigger,C
+BT02,071,"Cheshire Cat of Nightmareland",0,Dark Irregulars,Heal Trigger,C
+BT02,072,"Elephants Juggler",3,Pale Moon,Normal Unit,C
+BT02,073,"Fire Breeze, Carrie",2,Pale Moon,Normal Unit,C
+BT02,074,"Big League Bear",2,Pale Moon,Normal Unit,C
+BT02,075,"Starting Presenter",1,Pale Moon,Normal Unit,C
+BT02,076,"Skull Juggler",1,Pale Moon,Normal Unit,C
+BT02,077,"Dynamite Juggler",0,Pale Moon,Critical Trigger,C
+BT02,078,"Spiral Master",0,Pale Moon,Draw Trigger,C
+BT02,079,"Rainbow Magician",0,Pale Moon,Draw Trigger,C
+BT02,080,"Candy Clown",0,Pale Moon,Heal Trigger,C

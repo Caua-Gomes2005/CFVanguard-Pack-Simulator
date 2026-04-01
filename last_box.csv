@@ -1,62 +1,40 @@
 set,id,name,grade,clan,type,rarity,qtt
-BT01,4,Dragonic Overlord,3,Kagero,Normal Unit,RRR,2
-BT01,6,CEO Amaterasu,3,Oracle Think Tank,Normal Unit,RRR,1
-BT01,10,"Solitary Knight, Gancelot",3,Royal Paladin,Normal Unit,RR,1
-BT01,11,"Flash Shield, Iseult",1,Royal Paladin,Normal Unit,RR,1
-BT01,12,"Future Knight, Llew",0,Royal Paladin,Critical Trigger,RR,2
-BT01,13,Vortex Dragon,3,Kagero,Normal Unit,RR,1
-BT01,16,"Lizard Soldier, Conroe",0,Kagero,Normal Unit,RR,1
-BT01,18,"Battle Sister, Mocha",2,Oracle Think Tank,Normal Unit,RR,1
-BT01,19,"Battle Sister, Chocolat",1,Oracle Think Tank,Normal Unit,RR,1
-BT01,20,Juggernaut Maximum,3,Spike Brothers,Normal Unit,RR,1
-BT01,21,"Knight of Silence, Gallatin",2,Royal Paladin,Normal Unit,R,1
-BT01,26,"Oracle Guardian, Wiseman",2,Oracle Think Tank,Normal Unit,R,2
-BT01,28,Mr. Invincible,3,Nova Grappler,Normal Unit,R,1
-BT01,29,Brutal Jack,2,Nova Grappler,Normal Unit,R,2
-BT01,30,King of Sword,2,Nova Grappler,Normal Unit,R,1
-BT01,31,Queen of Heart,1,Nova Grappler,Normal Unit,R,1
-BT01,32,Battleraizer,0,Nova Grappler,Stand Trigger,R,2
-BT01,34,"Assault Dragon, Blightops",2,Tachikaze,Normal Unit,R,2
-BT01,36,Demon Eater,3,Dark Irregulars,Normal Unit,R,1
-BT01,37,Monster Frank,3,Granblue,Normal Unit,R,2
-BT01,38,Commodore Blueblood,2,Granblue,Normal Unit,R,2
-BT01,40,Bloody Hercules,2,Megacolony,Normal Unit,R,1
-BT01,41,"Covenant Knight, Randolf",2,Royal Paladin,Normal Unit,C,2
-BT01,42,"Little Sage, Marron",1,Royal Paladin,Normal Unit,C,6
-BT01,43,"Lake Maiden, Lien",1,Royal Paladin,Normal Unit,C,3
-BT01,44,Wingal,1,Royal Paladin,Normal Unit,C,2
-BT01,45,"Weapons Dealer, Govannon",0,Royal Paladin,Draw Trigger,C,2
-BT01,46,Flogal,0,Royal Paladin,Stand Trigger,C,4
-BT01,47,"Yggdrasil Maiden, Elaine",0,Royal Paladin,Heal Trigger,C,3
-BT01,48,"Embodiment of Armor, Bahr",1,Kagero,Normal Unit,C,2
-BT01,49,"Dragon Monk, Gojo",1,Kagero,Normal Unit,C,5
-BT01,50,"Wyvern Strike, Jarran",1,Kagero,Normal Unit,C,1
-BT01,51,"Dragon Dancer, Monica",0,Kagero,Draw Trigger,C,5
-BT01,52,"Lizard Soldier, Ganlu",0,Kagero,Stand Trigger,C,3
-BT01,53,"Dragon Monk, Genjo",0,Kagero,Heal Trigger,C,2
-BT01,54,"Oracle Guardian, Gemini",1,Oracle Think Tank,Normal Unit,C,3
-BT01,55,"Weather Girl, Milk",1,Oracle Think Tank,Normal Unit,C,1
-BT01,56,"Oracle Guardian, Nike",0,Oracle Think Tank,Critical Trigger,C,6
-BT01,57,Dream Eater,0,Oracle Think Tank,Draw Trigger,C,4
-BT01,58,Miracle Kid,0,Oracle Think Tank,Draw Trigger,C,6
-BT01,59,Hungry Dumpty,2,Nova Grappler,Normal Unit,C,3
-BT01,60,Tough Boy,1,Nova Grappler,Normal Unit,C,4
-BT01,61,"Screamin' and Dancin' Announcer, Shout",1,Nova Grappler,Normal Unit,C,2
-BT01,62,Clay-doll Mechanic,1,Nova Grappler,Normal Unit,C,5
-BT01,63,Shining Lady,0,Nova Grappler,Critical Trigger,C,3
-BT01,64,Lucky Girl,0,Nova Grappler,Stand Trigger,C,3
-BT01,65,"Ring Girl, Clara",0,Nova Grappler,Heal Trigger,C,1
-BT01,66,Sonic Noa,1,Tachikaze,Normal Unit,C,2
-BT01,68,"Stealth Beast, Chigasumi",2,Nubatama,Normal Unit,C,6
-BT01,69,"Stealth Dragon, Dreadmaster",1,Nubatama,Normal Unit,C,5
-BT01,70,"Stealth Beast, Hagakure",0,Nubatama,Normal Unit,C,3
-BT01,71,Blue Dust,2,Dark Irregulars,Normal Unit,C,3
-BT01,72,Nightmare Baby,1,Dark Irregulars,Normal Unit,C,4
-BT01,73,Rock the Wall,0,Dark Irregulars,Normal Unit,C,3
-BT01,74,"Highspeed, Brakki",2,Spike Brothers,Normal Unit,C,2
-BT01,75,Wonder Boy,1,Spike Brothers,Normal Unit,C,2
-BT01,76,"Redshoe, Milly",0,Spike Brothers,Normal Unit,C,1
-BT01,77,"Dandy Guy, Romario",1,Granblue,Normal Unit,C,1
-BT01,78,Guiding Zombie,0,Granblue,Normal Unit,C,2
-BT01,79,Karma Queen,1,Megacolony,Normal Unit,C,3
-BT01,80,Madame Mirage,0,Megacolony,Normal Unit,C,2
+BT02,4,Maiden of Libra,2,Oracle Think Tank,Normal Unit,RRR,1
+BT02,19,Hadron Badon,2,Pale Moon,Normal Unit,RR,1
+BT02,24,Flame Edge Dragon,2,Kagero,Normal Unit,R,1
+BT02,25,"Dragon Dancer, Bernadette",2,Kagero,Normal Unit,R,1
+BT02,26,"Dragon Monk, Enbi",1,Kagero,Normal Unit,R,1
+BT02,28,Full Moon Specter,3,Granblue,Normal Unit,R,1
+BT02,30,Captain Nightmist,2,Granblue,Normal Unit,R,1
+BT02,34,Blue Dust,2,Dark Irregulars,Normal Unit,R,1
+BT02,37,Alluring Succubus,1,Dark Irregulars,Normal Unit,R,2
+BT02,41,"Knight of Tribulations, Galahad",3,Royal Paladin,Normal Unit,C,1
+BT02,43,"Knight of Harvest, Galahad",1,Royal Paladin,Normal Unit,C,1
+BT02,44,Drangal,0,Royal Paladin,Normal Unit,C,1
+BT02,45,Alabaster Owl,0,Royal Paladin,Critical Trigger,C,1
+BT02,47,Borgal,0,Royal Paladin,Heal Trigger,C,1
+BT02,48,"Amber Dragon, Eclipse",3,Kagero,Normal Unit,C,1
+BT02,50,"Amber Dragon, Dawn",1,Kagero,Normal Unit,C,3
+BT02,51,"Amber Dragon, Daylight",0,Kagero,Normal Unit,C,1
+BT02,53,Blue Ray Dracokid,0,Kagero,Critical Trigger,C,1
+BT02,54,"Dragon Dancer, Rakshasa",0,Kagero,Stand Trigger,C,1
+BT02,55,"Dragon Monk, Genjo",0,Kagero,Heal Trigger,C,1
+BT02,56,"Dragon Undead, Skull Dragon",3,Granblue,Normal Unit,C,1
+BT02,58,Evil Shade,1,Granblue,Normal Unit,C,1
+BT02,60,Knight Spirit,0,Granblue,Critical Trigger,C,1
+BT02,61,Hook-wielding Zombie,0,Granblue,Draw Trigger,C,1
+BT02,62,Rick the Ghost,0,Granblue,Heal Trigger,C,2
+BT02,63,Doctor Rouge,0,Granblue,Heal Trigger,C,1
+BT02,64,Stil Vampire,3,Dark Irregulars,Normal Unit,C,2
+BT02,65,Dark Soul Conductor,2,Dark Irregulars,Normal Unit,C,1
+BT02,66,Hysteric Shirley,0,Dark Irregulars,Draw Trigger,C,1
+BT02,67,Blitzritter,0,Dark Irregulars,Critical Trigger,C,2
+BT02,68,Cursed Doctor,0,Dark Irregulars,Heal Trigger,C,2
+BT02,69,Dark Knight of Nightmareland,0,Dark Irregulars,Critical Trigger,C,1
+BT02,70,Mad Hatter of Nightmareland,0,Dark Irregulars,Draw Trigger,C,1
+BT02,71,Cheshire Cat of Nightmareland,0,Dark Irregulars,Heal Trigger,C,1
+BT02,72,Elephants Juggler,3,Pale Moon,Normal Unit,C,1
+BT02,73,"Fire Breeze, Carrie",2,Pale Moon,Normal Unit,C,1
+BT02,75,Starting Presenter,1,Pale Moon,Normal Unit,C,3
+BT02,77,Dynamite Juggler,0,Pale Moon,Critical Trigger,C,1
+BT02,78,Spiral Master,0,Pale Moon,Draw Trigger,C,3
