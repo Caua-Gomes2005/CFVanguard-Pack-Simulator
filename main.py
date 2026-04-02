@@ -1,9 +1,8 @@
+import os
 import subprocess
 import sys
 import random as rd
 import webbrowser
-
-from matplotlib.pylab import save
 
 def instalar(package): #Instala o pacote necessário caso ele não esteja instalado
     subprocess.check_call([sys.executable, "-m", "pip", "install", package])
@@ -19,7 +18,7 @@ def gerar_link_wiki(nome_carta):
     nome_formatado = nome_carta.replace(' ', '_')
     return f'https://cardfight.fandom.com/wiki/{nome_formatado}'
 
-def web_colecao(nome):
+""" def web_colecao(nome):
     if str(type(nome)) == "<class 'pandas.DataFrame'>":
         try:
             for index, row in nome.iterrows():
@@ -35,7 +34,7 @@ def web_colecao(nome):
                 link = gerar_link_wiki(row['name'])
                 webbrowser.open(link) # Isso abre o navegador automaticamente
         except:
-            print('Erro ao carregar coleção.')
+            print('Erro ao carregar coleção.') """
 
 def escolhe_pacote(name):
     view = input('Deseja ver as cartas desse pacote na Wiki?(s/n): ')
@@ -47,11 +46,17 @@ def escolhe_pacote(name):
         for index, row in data.iterrows(): 
             print(f'0{row["id"]} {row["name"]} - {row["grade"]} - {row["clan"]} - {row["type"]} - {row["rarity"]}')
 
-def ver_colecao(nome):
+def ver_colecao(nome, web=False):
     try:
         save = pd.read_csv(f'{nome}.csv')
-        for index, row in save.iterrows():
-            print(f'0{row["id"]} {row["name"]} - {row["grade"]} - {row["clan"]} - {row["type"]} - {row["rarity"]} - Qtt: {row["qtt"]}')
+        if web == False:
+            for index, row in save.iterrows():
+                print(f'0{row["id"]} {row["name"]} - {row["grade"]} - {row["clan"]} - {row["type"]} - {row["rarity"]} - Qtt: {row["qtt"]}')
+        else:
+            print(f'Abrindo a Wiki de: {len(save)} cartas...')
+            for index, row in save.iterrows():
+                link = gerar_link_wiki(row['name'])
+                webbrowser.open(link) 
     except:
         print('Você ainda não tem nenhuma carta na coleção! Abra alguns pacotes para começar a colecionar!')
 
@@ -115,14 +120,19 @@ def rodar_box(name, qtt):
     save.to_csv('save.csv', index=False)
     return box
 
-def filtra_colecao(tipo, filtro):
+def filtra_colecao(tipo, filtro, data = 'save'):
+    if data == 'save':
+        save = pd.read_csv(f'{data}.csv')
+    else:
+        save = data.copy()
     
-    save = pd.read_csv('save.csv')
-    
-    if (tipo == 'type') and (filtro.lower()== 'trigger'):
+    if (tipo == 'type') and (filtro.lower() == 'trigger'):
         save = save[(save['type'].str.lower()) != 'normal unit']
+    elif (tipo == 'grade'):
+        save = save[(save['grade'] == int(filtro))]
     else:
         save = save[(save[tipo].str.lower()) == filtro]
+
     if save.empty:
         print(f'Nenhuma carta encontrada para o filtro: {tipo} = {filtro}')
     else:
@@ -131,6 +141,7 @@ def filtra_colecao(tipo, filtro):
     return save    
 #Main
 
+keep = True
 try: #Cria um backup para garantir que a coleção não seja sobreescrita acidentalmente
     backup = pd.read_csv('save.csv')
 except:
@@ -139,56 +150,62 @@ backup.to_csv('save_backup.csv', index=False)
 
 direct = pd.read_csv('packs\direct.csv')
 
-#Tela de entrada
-print('Seja bem vindo ao CF Vanguard Pack Simulator!')
-print('O que gostaria de fazer?: ')
-option = input('1 - Rodar pacotes \n2 - Ver pacotes disponíveis \n3 - Ver sua coleção \n4 - Sair \n\nDigite o número da opção desejada: ')
+while keep == True:
 
-if option == '1':
-    name = input('Digite o nome do pacote (ex: BT01): ')
-    qtt = int(input('Digite a quantidade de pacotes que deseja abrir: '))
-    box = rodar_box(name.upper(), qtt)
-    print('Pacotes abertos! As cartas foram salvas em last_box.csv e a coleção foi atualizada em save.csv')
-    view = input('Deseja ver as cartas que você tirou de que forma? \n1 - Mostre aqui \n2 - Abra a Wiki \n3 - Não mostrar \n:')
-    if view == '1':
-        lb = pd.read_csv('last_box.csv')
-        for index, row in lb.iterrows():
-            print(f'0{row["id"]} {row["name"]} - {row["grade"]} - {row["clan"]} - {row["type"]} - {row["rarity"]} - Qtt: {row["qtt"]}')
-    elif view == '2':
-        web_colecao('last_box')
-    elif view == '3':
-        print('Tudo bem! Você pode ver as cartas que tirou na last_box.csv')
-    else: 
-        print('Opção inválida! Mas você ainda pode ver as cartas que tirou na last_box.csv')
-    input('\nPressione Enter para sair...')
+    #Tela de entrada
+    print('Seja bem vindo ao CF Vanguard Pack Simulator!')
+    print('O que gostaria de fazer?: ')
+    option = input('1 - Rodar pacotes \n2 - Ver pacotes disponíveis \n3 - Ver sua coleção \n4 - Sair \n\nDigite o número da opção desejada: ')
 
-elif option == '2':
-    for index, row in direct.iterrows():
-        print(f'{row["set"]}')
-    name = input('Digite o nome do pacote (ex: BT01): ')
-    escolhe_pacote(name)
-    input('\nPressione Enter para sair...')
+    if option == '1':
 
-elif option == '3':
-    filtro = input('\nDeseja filtrar a coleção? (s/n): ')
-    if filtro == 's':
-        tipo = input('Digite o tipo de filtro (ex: rarity): ')
-        valor = input('Digite o valor do filtro (ex: R): \n')
-        filtrada = filtra_colecao(tipo, valor)
-        view = input('Deseja ver as cartas filtradas na Wiki?(s/n):')
-        if view == 's':
-            web_colecao(filtrada)
+        name = input('Digite o nome do pacote (ex: BT01): ')
+        qtt = int(input('Digite a quantidade de pacotes que deseja abrir: '))
+        box = rodar_box(name.upper(), qtt)
+
+        print('Pacotes abertos! As cartas foram salvas em last_box.csv e a coleção foi atualizada em save.csv')
+        
+        view = input('Deseja ver as cartas que você tirou de que forma? \n1 - Mostre aqui \n2 - Abra a Wiki \n3 - Não mostrar \n:')
+        
+        if view == '1':
+            ver_colecao('last_box')
+        elif view == '2':
+            ver_colecao('last_box', web=True)
         else:
-            print('Tudo bem! Você pode ver as cartas filtradas na coleção aqui mesmo.')
+            print('Tudo bem! Você pode ver as cartas que tirou na last_box.csv')
+        input('\nPressione Enter para sair...\n')
+
+    elif option == '2':
+        for index, row in direct.iterrows():
+            print(f'{row["set"]}')
+        name = input('Digite o nome do pacote (ex: BT01): ')
+        escolhe_pacote(name)
+        input('\nPressione Enter para sair...\n')
+
+    elif option == '3':
+        filtro = input('\nDeseja filtrar a coleção? (s/n): ')
+        if filtro == 's':
+            tipo = input('Digite o tipo de filtro (ex: rarity): ')
+            valor = input('Digite o valor do filtro (ex: R): ')
+            filtrada = filtra_colecao(tipo, valor)
+            view = input('Deseja ver as cartas filtradas na Wiki?(s/n): ')
+            print()
+            if view == 's':
+                filtrada.to_csv('filtrada.csv', index=False)
+                ver_colecao('filtrada', web=True)
+                os.remove('filtrada.csv')
+            else:
+                print('Tudo bem! Você pode ver as cartas filtradas na coleção!')
+        else:
+            print('Tudo bem! Você pode ver as cartas filtradas na coleção!')
+            ver_colecao('save')
+        input('\nPressione Enter para sair...\n')
+
+    elif option == '4':
+        print('Obrigado por usar o CF Vanguard Pack Simulator! Até a próxima!')
+        keep = False
+        input('\nPressione Enter para sair...\n')
 
     else:
-        ver_colecao('save')
-    input('\nPressione Enter para sair...')
-
-elif option == '4':
-    print('Obrigado por usar o CF Vanguard Pack Simulator! Até a próxima!')
-    input('\nPressione Enter para sair...')
-
-else:
-    print('Opção inválida! Por favor, escolha uma opção válida na próxima vez.')
-    input('\nPressione Enter para sair...')
+        print('Opção inválida! Por favor, escolha uma opção válida na próxima vez.')
+        input('\nPressione Enter para sair...\n')

@@ -1,81 +1,81 @@
 set,id,name,grade,clan,type,rarity
-BT03,001,"Stil Vampir",3,Dark Irregulars,Normal Unit,RRR
-BT03,002,"Demon World Marquis, Amon",3,Dark Irregulars,Normal Unit,RRR
-BT03,003,"Nightmare Doll, Alice",3,Pale Moon,Normal Unit,RRR
-BT03,004,"Ravenous Dragon, Gigarex",3,Tachikaze,Normal Unit,RRR
-BT03,005,"Swordsman of the Explosive Flames, Palamedes",3,Royal Paladin,Normal Unit,RRR
-BT03,006,"Goddess of the Full Moon, Tsukuyomi",3,Oracle Think Tank,Normal Unit,RRR
-BT03,007,"Goddess of the Half Moon, Tsukuyomi",2,Oracle Think Tank,Normal Unit,RRR
-BT03,008,"Ultimate Lifeform, Cosmo Lord",3,Nova Grappler,Normal Unit,RRR
-BT03,009,"Edel Rose",3,Dark Irregulars,Normal Unit,RR
-BT03,010,"Gwynn the Ripper",2,Dark Irregulars,Normal Unit,RR
-BT03,011,"March Rabbit of Nightmareland",1,Dark Irregulars,Normal Unit,RR
-BT03,012,"Doreen the Thruster",1,Dark Irregulars,Normal Unit,RR
-BT03,013,"Dusk Illusionist, Robert",3,Pale Moon,Normal Unit,RR
-BT03,014,"Crimson Beast Tamer",2,Pale Moon,Normal Unit,RR
-BT03,015,"Mirror Demon",2,Pale Moon,Normal Unit,RR
-BT03,016,"Hades Hypnotist",1,Pale Moon,Normal Unit,RR
-BT03,017,"Archbird",1,Tachikaze,Normal Unit,RR
-BT03,018,"Knight of Godly Speed, Galahad",3,Royal Paladin,Normal Unit,RR
-BT03,019,"Dual Axe Archdragon",3,Kagero,Normal Unit,RR
-BT03,020,"Super Dimensional Robo, Daiyusha",3,Dimension Police,Normal Unit,RR
-BT03,021,"Imprisoned Fallen Angel, Saraqael",2,Dark Irregulars,Normal Unit,R
-BT03,022,"Werwolf Sieger",2,Dark Irregulars,Normal Unit,R
-BT03,023,"Demon of Aspiration, Amon",2,Dark Irregulars,Normal Unit,R
-BT03,024,"Alluring Succubus",1,Dark Irregulars,Normal Unit,R
-BT03,025,"Vermillion Gatekeeper",0,Dark Irregulars,Normal Unit,R
-BT03,026,"Barking Manticore",3,Pale Moon,Normal Unit,R
-BT03,027,"Barking Cerberus",2,Pale Moon,Normal Unit,R
-BT03,028,"Skull Juggler",1,Pale Moon,Normal Unit,R
-BT03,029,"Midnight Bunny",1,Pale Moon,Normal Unit,R
-BT03,030,"Turquoise Beast Tamer",1,Pale Moon,Normal Unit,R
-BT03,031,"Hades Ringmaster",0,Pale Moon,Normal Unit,R
-BT03,032,"Raging Dragon, Blastsaurus",3,Tachikaze,Normal Unit,R
-BT03,033,"Ravenous Dragon, Megarex",2,Tachikaze,Normal Unit,R
-BT03,034,"Savage Warrior",1,Tachikaze,Normal Unit,R
-BT03,035,"Toypugal",1,Royal Paladin,Normal Unit,R
-BT03,036,"Drangal",0,Royal Paladin,Normal Unit,R
-BT03,037,"Oracle Guardian, Blue Eye",1,Oracle Think Tank,Normal Unit,R
-BT03,038,"Godhawk, Ichibyoshi",0,Oracle Think Tank,Normal Unit,R
-BT03,039,"Death Army Lady",2,Nova Grappler,Normal Unit,R
-BT03,040,"Death Army Guy",1,Nova Grappler,Normal Unit,R
-BT03,041,"Decadent Succubus",2,Dark Irregulars,Normal Unit,C
-BT03,042,"Prisoner Beast",1,Dark Irregulars,Normal Unit,C
-BT03,043,"Poet of Darkness, Amon",1,Dark Irregulars,Normal Unit,C
-BT03,044,"Blitzritter",0,Dark Irregulars,Critical Trigger,C
-BT03,045,"Hades Puppet Master",0,Dark Irregulars,Stand Trigger,C
-BT03,046,"Cursed Doctor",0,Dark Irregulars,Heal Trigger,C
-BT03,047,"Dark Queen of Nightmareland",0,Dark Irregulars,Stand Trigger,C
-BT03,048,"Elephant Juggler",2,Pale Moon,Normal Unit,C
-BT03,049,"Hungry Clown",2,Pale Moon,Normal Unit,C
-BT03,050,"Dark Metal Bicorn",1,Pale Moon,Normal Unit,C
-BT03,051,"Dynamite Juggler",0,Pale Moon,Critical Trigger,C
-BT03,052,"Spiral Master",0,Pale Moon,Draw Trigger,C
-BT03,053,"Candy Clown",0,Pale Moon,Heal Trigger,C
-BT03,054,"Rainbow Magician",0,Pale Moon,Draw Trigger,C
-BT03,055,"Vacuum Mammoth",2,Tachikaze,Normal Unit,C
-BT03,056,"Savage Destroyer",2,Tachikaze,Normal Unit,C
-BT03,057,"Raging Dragon, Sparksaurus",1,Tachikaze,Normal Unit,C
-BT03,058,"Herbivorous Dragon, Brutosaurus",0,Tachikaze,Draw Trigger,C
-BT03,059,"Pack Dragon, Tinyrex",0,Tachikaze,Stand Trigger,C
-BT03,060,"Savage Shaman",0,Tachikaze,Heal Trigger,C
-BT03,061,"Black Cannon Tiger",0,Tachikaze,Critical Trigger,C
-BT03,062,"Knight of Tribulations, Galahad",2,Royal Paladin,Normal Unit,C
-BT03,063,"Gigantech Dozer",2,Royal Paladin,Normal Unit,C
-BT03,064,"Swordsman of the Blaze, Palamedes",2,Royal Paladin,Normal Unit,C
-BT03,065,"Knight of Quests, Galahad",1,Royal Paladin,Normal Unit,C
-BT03,066,"Borgal",1,Royal Paladin,Normal Unit,C
-BT03,067,"Alabaster Owl",0,Royal Paladin,Critical Trigger,C
-BT03,068,"Secretary Angel",3,Oracle Think Tank,Normal Unit,C
-BT03,069,"Oracle Guardian, Red Eye",2,Oracle Think Tank,Normal Unit,C
-BT03,070,"Faithful Angel",2,Oracle Think Tank,Normal Unit,C
-BT03,071,"Goddess of the Crescent Moon, Tsukuyomi",1,Oracle Think Tank,Normal Unit,C
-BT03,072,"Battle Sister, Vanilla",1,Oracle Think Tank,Normal Unit,C
-BT03,073,"Victory Maker",0,Oracle Think Tank,Draw Trigger,C
-BT03,074,"Flame Edge Dragon",2,Kagero,Normal Unit,C
-BT03,075,"Dragon Dancer, Lourdes",1,Kagero,Normal Unit,C
-BT03,076,"Blue Ray Dracokid",0,Kagero,Critical Trigger,C
-BT03,077,"Cannon Ball",0,Nova Grappler,Stand Trigger,C
-BT03,078,"Masked Police, Grander",2,Dimension Police,Normal Unit,C
-BT03,079,"Karenroid, Daisy",1,Dimension Police,Normal Unit,C
-BT03,080,"Workerpod, Saturday",0,Dimension Police,Normal Unit,C
+BT03,1,Stil Vampir,3,Dark Irregulars,Normal Unit,RRR
+BT03,2,"Demon World Marquis, Amon",3,Dark Irregulars,Normal Unit,RRR
+BT03,3,"Nightmare Doll, Alice",3,Pale Moon,Normal Unit,RRR
+BT03,4,"Ravenous Dragon, Gigarex",3,Tachikaze,Normal Unit,RRR
+BT03,5,"Swordsman of the Explosive Flames, Palamedes",3,Royal Paladin,Normal Unit,RRR
+BT03,6,"Goddess of the Full Moon, Tsukuyomi",3,Oracle Think Tank,Normal Unit,RRR
+BT03,7,"Goddess of the Half Moon, Tsukuyomi",2,Oracle Think Tank,Normal Unit,RRR
+BT03,8,"Ultimate Lifeform, Cosmo Lord",3,Nova Grappler,Normal Unit,RRR
+BT03,9,Edel Rose,3,Dark Irregulars,Normal Unit,RR
+BT03,10,Gwynn the Ripper,2,Dark Irregulars,Normal Unit,RR
+BT03,11,March Rabbit of Nightmareland,1,Dark Irregulars,Normal Unit,RR
+BT03,12,Doreen the Thruster,1,Dark Irregulars,Normal Unit,RR
+BT03,13,"Dusk Illusionist, Robert",3,Pale Moon,Normal Unit,RR
+BT03,14,Crimson Beast Tamer,2,Pale Moon,Normal Unit,RR
+BT03,15,Mirror Demon,2,Pale Moon,Normal Unit,RR
+BT03,16,Hades Hypnotist,1,Pale Moon,Normal Unit,RR
+BT03,17,Archbird,1,Tachikaze,Normal Unit,RR
+BT03,18,"Knight of Godly Speed, Galahad",3,Royal Paladin,Normal Unit,RR
+BT03,19,Dual Axe Archdragon,3,Kagero,Normal Unit,RR
+BT03,20,"Super Dimensional Robo, Daiyusha",3,Dimension Police,Normal Unit,RR
+BT03,21,"Imprisoned Fallen Angel, Saraqael",2,Dark Irregulars,Normal Unit,R
+BT03,22,Werwolf Sieger,2,Dark Irregulars,Normal Unit,R
+BT03,23,"Demon of Aspiration, Amon",2,Dark Irregulars,Normal Unit,R
+BT03,24,Alluring Succubus,1,Dark Irregulars,Normal Unit,R
+BT03,25,Vermillion Gatekeeper,0,Dark Irregulars,Normal Unit,R
+BT03,26,Barking Manticore,3,Pale Moon,Normal Unit,R
+BT03,27,Barking Cerberus,2,Pale Moon,Normal Unit,R
+BT03,28,Skull Juggler,1,Pale Moon,Normal Unit,R
+BT03,29,Midnight Bunny,1,Pale Moon,Normal Unit,R
+BT03,30,Turquoise Beast Tamer,1,Pale Moon,Normal Unit,R
+BT03,31,Hades Ringmaster,0,Pale Moon,Normal Unit,R
+BT03,32,"Raging Dragon, Blastsaurus",3,Tachikaze,Normal Unit,R
+BT03,33,"Ravenous Dragon, Megarex",2,Tachikaze,Normal Unit,R
+BT03,34,Savage Warrior,1,Tachikaze,Normal Unit,R
+BT03,35,Toypugal,1,Royal Paladin,Normal Unit,R
+BT03,36,Drangal,0,Royal Paladin,Normal Unit,R
+BT03,37,"Oracle Guardian, Blue Eye",1,Oracle Think Tank,Normal Unit,R
+BT03,38,"Godhawk, Ichibyoshi",0,Oracle Think Tank,Normal Unit,R
+BT03,39,Death Army Lady,2,Nova Grappler,Normal Unit,R
+BT03,40,Death Army Guy,1,Nova Grappler,Normal Unit,R
+BT03,41,Decadent Succubus,2,Dark Irregulars,Normal Unit,C
+BT03,42,Prisoner Beast,1,Dark Irregulars,Normal Unit,C
+BT03,43,"Poet of Darkness, Amon",1,Dark Irregulars,Normal Unit,C
+BT03,44,Blitzritter,0,Dark Irregulars,Critical Trigger,C
+BT03,45,Hades Puppet Master,0,Dark Irregulars,Stand Trigger,C
+BT03,46,Cursed Doctor,0,Dark Irregulars,Heal Trigger,C
+BT03,47,Dark Queen of Nightmareland,0,Dark Irregulars,Stand Trigger,C
+BT03,48,Elephant Juggler,2,Pale Moon,Normal Unit,C
+BT03,49,Hungry Clown,2,Pale Moon,Normal Unit,C
+BT03,50,Dark Metal Bicorn,1,Pale Moon,Normal Unit,C
+BT03,51,Dynamite Juggler,0,Pale Moon,Critical Trigger,C
+BT03,52,Spiral Master,0,Pale Moon,Draw Trigger,C
+BT03,53,Candy Clown,0,Pale Moon,Heal Trigger,C
+BT03,54,Rainbow Magician,0,Pale Moon,Draw Trigger,C
+BT03,55,Vacuum Mammoth,2,Tachikaze,Normal Unit,C
+BT03,56,Savage Destroyer,2,Tachikaze,Normal Unit,C
+BT03,57,"Raging Dragon, Sparksaurus",1,Tachikaze,Normal Unit,C
+BT03,58,"Herbivorous Dragon, Brutosaurus",0,Tachikaze,Draw Trigger,C
+BT03,59,"Pack Dragon, Tinyrex",0,Tachikaze,Stand Trigger,C
+BT03,60,Savage Shaman,0,Tachikaze,Heal Trigger,C
+BT03,61,Black Cannon Tiger,0,Tachikaze,Critical Trigger,C
+BT03,62,"Knight of Tribulations, Galahad",2,Royal Paladin,Normal Unit,C
+BT03,63,Gigantech Dozer,2,Royal Paladin,Normal Unit,C
+BT03,64,"Swordsman of the Blaze, Palamedes",2,Royal Paladin,Normal Unit,C
+BT03,65,"Knight of Quests, Galahad",1,Royal Paladin,Normal Unit,C
+BT03,66,Borgal,1,Royal Paladin,Normal Unit,C
+BT03,67,Alabaster Owl,0,Royal Paladin,Critical Trigger,C
+BT03,68,Secretary Angel,3,Oracle Think Tank,Normal Unit,C
+BT03,69,"Oracle Guardian, Red Eye",2,Oracle Think Tank,Normal Unit,C
+BT03,70,Faithful Angel,2,Oracle Think Tank,Normal Unit,C
+BT03,71,"Goddess of the Crescent Moon, Tsukuyomi",1,Oracle Think Tank,Normal Unit,C
+BT03,72,"Battle Sister, Vanilla",1,Oracle Think Tank,Normal Unit,C
+BT03,73,Victory Maker,0,Oracle Think Tank,Draw Trigger,C
+BT03,74,Flame Edge Dragon,2,Kagero,Normal Unit,C
+BT03,75,"Dragon Dancer, Lourdes",1,Kagero,Normal Unit,C
+BT03,76,Blue Ray Dracokid,0,Kagero,Critical Trigger,C
+BT03,77,Cannon Ball,0,Nova Grappler,Stand Trigger,C
+BT03,78,"Masked Police, Grander",2,Dimension Police,Normal Unit,C
+BT03,79,"Karenroid, Daisy",1,Dimension Police,Normal Unit,C
+BT03,80,"Workerpod, Saturday",0,Dimension Police,Normal Unit,C
