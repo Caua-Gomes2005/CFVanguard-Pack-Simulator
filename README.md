@@ -13,3 +13,4 @@ Como utilizar:
 
 4 - escolha qualquer uma das opções, elas terão instruções para como prosseguir 
 
+Caso abra mais pacotes do que deveria, mude o nome de save_backup.csv para save.csv e apague o ultimo save
