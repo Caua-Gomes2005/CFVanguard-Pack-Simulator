@@ -1,45 +1,6 @@
 set,id,name,grade,clan,type,rarity,qtt
-BT01,5,"Embodiment of Victory, Aleph",3,Kagero,Normal Unit,RRR,1
-BT01,13,Vortex Dragon,3,Kagero,Normal Unit,RR,1
-BT01,21,"Knight of Silence, Gallatin",2,Royal Paladin,Normal Unit,R,1
-BT01,27,Lozenge Magus,0,Oracle Think Tank,Heal Trigger,R,1
-BT01,29,Brutal Jack,2,Nova Grappler,Normal Unit,R,1
-BT01,30,King of Sword,2,Nova Grappler,Normal Unit,R,2
-BT01,31,Queen of Heart,1,Nova Grappler,Normal Unit,R,1
-BT01,32,Battleraizer,0,Nova Grappler,Stand Trigger,R,2
-BT01,33,"Tyrant, Deathrex",3,Tachikaze,Normal Unit,R,1
-BT01,34,"Assault Dragon, Blightops",2,Tachikaze,Normal Unit,R,1
-BT01,35,"Stealth Dragon, Voidmaster",3,Nubatama,Normal Unit,R,1
-BT01,38,Commodore Blueblood,2,Granblue,Normal Unit,R,2
-BT01,41,"Covenant Knight, Randolf",2,Royal Paladin,Normal Unit,C,2
-BT01,42,"Little Sage, Marron",1,Royal Paladin,Normal Unit,C,1
-BT01,43,"Lake Maiden, Lien",1,Royal Paladin,Normal Unit,C,2
-BT01,44,Wingal,1,Royal Paladin,Normal Unit,C,1
-BT01,45,"Weapons Dealer, Govannon",0,Royal Paladin,Draw Trigger,C,2
-BT01,46,Flogal,0,Royal Paladin,Stand Trigger,C,1
-BT01,47,"Yggdrasil Maiden, Elaine",0,Royal Paladin,Heal Trigger,C,4
-BT01,48,"Embodiment of Armor, Bahr",1,Kagero,Normal Unit,C,1
-BT01,49,"Dragon Monk, Gojo",1,Kagero,Normal Unit,C,2
-BT01,50,"Wyvern Strike, Jarran",1,Kagero,Normal Unit,C,3
-BT01,51,"Dragon Dancer, Monica",0,Kagero,Draw Trigger,C,1
-BT01,52,"Lizard Soldier, Ganlu",0,Kagero,Stand Trigger,C,3
-BT01,54,"Oracle Guardian, Gemini",1,Oracle Think Tank,Normal Unit,C,1
-BT01,55,"Weather Girl, Milk",1,Oracle Think Tank,Normal Unit,C,3
-BT01,56,"Oracle Guardian, Nike",0,Oracle Think Tank,Critical Trigger,C,3
-BT01,57,Dream Eater,0,Oracle Think Tank,Draw Trigger,C,1
-BT01,58,Miracle Kid,0,Oracle Think Tank,Draw Trigger,C,1
-BT01,62,Clay-doll Mechanic,1,Nova Grappler,Normal Unit,C,1
+BT01,28,Mr. Invincible,3,Nova Grappler,Normal Unit,R,1
+BT01,50,"Wyvern Strike, Jarran",1,Kagero,Normal Unit,C,1
+BT01,56,"Oracle Guardian, Nike",0,Oracle Think Tank,Critical Trigger,C,1
 BT01,64,Lucky Girl,0,Nova Grappler,Stand Trigger,C,1
-BT01,66,Sonic Noa,1,Tachikaze,Normal Unit,C,4
-BT01,67,"Ironclad Dragon, Shieldon",0,Tachikaze,Normal Unit,C,2
-BT01,68,"Stealth Beast, Chigasumi",2,Nubatama,Normal Unit,C,1
-BT01,69,"Stealth Dragon, Dreadmaster",1,Nubatama,Normal Unit,C,1
-BT01,70,"Stealth Beast, Hagakure",0,Nubatama,Normal Unit,C,4
-BT01,71,Blue Dust,2,Dark Irregulars,Normal Unit,C,1
-BT01,72,Nightmare Baby,1,Dark Irregulars,Normal Unit,C,1
-BT01,73,Rock the Wall,0,Dark Irregulars,Normal Unit,C,4
-BT01,74,"Highspeed, Brakki",2,Spike Brothers,Normal Unit,C,1
-BT01,75,Wonder Boy,1,Spike Brothers,Normal Unit,C,2
-BT01,76,"Redshoe, Milly",0,Spike Brothers,Normal Unit,C,1
-BT01,77,"Dandy Guy, Romario",1,Granblue,Normal Unit,C,1
-BT01,80,Madame Mirage,0,Megacolony,Normal Unit,C,3
+BT01,80,Madame Mirage,0,Megacolony,Normal Unit,C,1

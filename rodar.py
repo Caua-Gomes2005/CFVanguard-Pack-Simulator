@@ -1,17 +1,16 @@
 import subprocess
 import sys
+import random as rd
+import webbrowser
 
-def instalar(package):
+def instalar(package): #Instala o pacote necessário caso ele não esteja instalado
     subprocess.check_call([sys.executable, "-m", "pip", "install", package])
 
 try:
-    import pandas as pd# Exemplo de biblioteca
+    import pandas as pd
 except ImportError:
     instalar('pandas')
     import pandas as pd
-
-import random as rd
-import webbrowser
 
 def gerar_link_wiki(nome_carta):
     # A wiki usa underscores no lugar de espaços
@@ -102,14 +101,30 @@ def rodar_box(name, qtt):
     save.to_csv('save.csv', index=False)
     return box
 
-try:
+def filtra_colecao(tipo, filtro):
+    
+    save = pd.read_csv('save.csv')
+    
+    if (tipo == 'type') and (filtro.lower()== 'trigger'):
+        save = save[(save['type'].str.lower()) != 'normal unit']
+    else:
+        save = save[(save[tipo].str.lower()) == filtro]
+    if save.empty:
+        print(f'Nenhuma carta encontrada para o filtro: {tipo} = {filtro}')
+    else:
+        for index, row in save.iterrows():
+            print(f'0{row["id"]} {row["name"]} - {row["grade"]} - {row["clan"]} - {row["type"]} - {row["rarity"]} - Qtt: {row["qtt"]}')
+        
+#Main
+
+try: #Cria um backup para garantir que a coleção não seja sobreescrita acidentalmente
     backup = pd.read_csv('save.csv')
 except:
-    backup = pd.DataFrame(columns=['set', 'id', 'name', 'grade', 'clan', 'type', 'rarity', 'qtt'])
+    backup = pd.DataFrame(columns=['set', 'id', 'name', 'grade', 'clan', 'type', 'rarity', 'qtt']) 
 backup.to_csv('save_backup.csv', index=False)
 
+#Tela de entrada
 print('Seja bem vindo ao CF Vanguard Pack Simulator!')
-
 print('O que gostaria de fazer?: ')
 option = input('1 - Rodar pacotes \n2 - Ver pacotes disponíveis \n3 - Ver sua coleção \n4 - Sair \nDigite o número da opção desejada: ')
 
@@ -121,15 +136,25 @@ if option == '1':
     web_colecao('last_box')
     input('\nPressione Enter para sair...')
 
-if option == '2':
+elif option == '2':
     name = input('Digite o nome do pacote (ex: BT01): ')
     escolhe_pacote(name)
     input('\nPressione Enter para sair...')
 
-if option == '3':
-    ver_colecao('save')
+elif option == '3':
+    filtro = input('\nDeseja filtrar a coleção? (s/n): ')
+    if filtro == 's':
+        tipo = input('Digite o tipo de filtro (ex: rarity): ')
+        valor = input('Digite o valor do filtro (ex: R): \n')
+        filtra_colecao(tipo, valor)
+    else:
+        ver_colecao('save')
     input('\nPressione Enter para sair...')
 
-if option == '4':
+elif option == '4':
     print('Obrigado por usar o CF Vanguard Pack Simulator! Até a próxima!')
+    input('\nPressione Enter para sair...')
+
+else:
+    print('Opção inválida! Por favor, escolha uma opção válida na próxima vez.')
     input('\nPressione Enter para sair...')
