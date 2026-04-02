@@ -48,34 +48,34 @@ BT02,046,"Cheerful Lynx",0,Spike Brothers,Draw Trigger,C
 BT02,047,"Cheer Girl, Tiara",0,Spike Brothers,Heal Trigger,C
 BT02,048,"Silence Joker",0,Spike Brothers,Critical Trigger,C
 BT02,049,"Skeleton Swordsman",2,Granblue,Normal Unit,C
-BT02,050,"Monster Frank",2,Granblue,Normal Unit,C
-BT02,051,"Three-headed Hyena",1,Granblue,Normal Unit,C
-BT02,052,"Dandy Guy, Romario",1,Granblue,Normal Unit,C
-BT02,053,"Rough Seas Banshee",0,Granblue,Critical Trigger,C
-BT02,054,"Knight Spirit",0,Granblue,Normal Unit,C
-BT02,055,"Samurai Spirit",0,Granblue,Normal Unit,C
-BT02,056,"Doctor Rouge",0,Granblue,Heal Trigger,C
-BT02,057,"Ghostie Ship",3,Granblue,Normal Unit,C
-BT02,058,"Guiding Zombie",0,Granblue,Normal Unit,C
-BT02,059,"Squire Bomber",2,Royal Paladin,Normal Unit,C
+BT02,050,"Samurai Spirit",1,Granblue,Normal Unit,C
+BT02,051,"Evil Shade",1,Granblue,Normal Unit,C
+BT02,052,"Knight Spirit",0,Granblue,Critical Trigger,C
+BT02,053,"Skeleton Lookout",0,Granblue,Stand Trigger,C
+BT02,054,"Rick the Ghostie",0,Granblue,Heal Trigger,C
+BT02,055,"Rough Seas Banshee",0,Granblue,Critical Trigger,C
+BT02,056,"Knight of Truth, Gordon",2,Royal Paladin,Normal Unit,C
+BT02,057,"Soul Guiding Elf",1,Royal Paladin,Normal Unit,C
+BT02,058,"Pixy Fife and Drum",0,Royal Paladin,Stand Trigger,C
+BT02,059,"Margal",0,Royal Paladin,Draw Trigger,C
 BT02,060,"Dragon Knight, Berger",2,Kagero,Normal Unit,C
-BT02,061,"Flame of Promise, Aermo",1,Kagero,Normal Unit,C
-BT02,062,"Gattling Claw Dragon",0,Kagero,Draw Trigger,C
-BT02,063,"Genie of the Lamp",1,Oracle Think Tank,Normal Unit,C
-BT02,064,"Tyrant, Deathrex",3,Tachikaze,Normal Unit,C
-BT02,065,"Savage Destroyer",2,Tachikaze,Normal Unit,C
-BT02,066,"Ravenous Dragon, Gigantorex",3,Tachikaze,Normal Unit,C
-BT02,067,"Savage Warrior",2,Tachikaze,Normal Unit,C
-BT02,068,"Shield Dragon, Tinyrex",1,Tachikaze,Normal Unit,C
-BT02,069,"Chaos Dragon, Dinochaos",2,Tachikaze,Normal Unit,C
+BT02,061,"Iron Tail Dragon",1,Kagero,Normal Unit,C
+BT02,062,"Follower, Reas",1,Kagero,Normal Unit,C
+BT02,063,"Lizard Runner, Nafd",0,Kagero,Stand Trigger,C
+BT02,064,"Gattling Claw Dragon",0,Kagero,Draw Trigger,C
+BT02,065,"Security Guardian",2,Oracle Think Tank,Normal Unit,C
+BT02,066,"One Who Gazes at the Truth",1,Oracle Think Tank,Normal Unit,C
+BT02,067,"Emergency Alarmer",0,Oracle Think Tank,Stand Trigger,C
+BT02,068,"Psychic Bird",0,Oracle Think Tank,Critical Trigger,C
+BT02,069,"Chaos Dragon, Dinochaos",3,Tachikaze,Normal Unit,C
 BT02,070,"Cannon Fire Dragon, Cannon Gear",2,Tachikaze,Normal Unit,C
-BT02,071,"Savage King",3,Tachikaze,Normal Unit,C
-BT02,072,"Cray Soldier",1,Tachikaze,Normal Unit,C
-BT02,073,"Super Idol, Riviere",2,Bermuda Triangle,Normal Unit,C
-BT02,074,"Mermaid Idol, Felucca",1,Bermuda Triangle,Normal Unit,C
-BT02,075,"Blazer Idols",2,Bermuda Triangle,Normal Unit,C
-BT02,076,"Hell Spider",3,Megacolony,Normal Unit,C
-BT02,077,"Lady Bomb",2,Megacolony,Normal Unit,C
-BT02,078,"Phantom Black",1,Megacolony,Normal Unit,C
-BT02,079,"Silve Wolf",1,Great Nature,Normal Unit,C
+BT02,071,"NGM Prototype",2,Nova Grappler,Normal Unit,C
+BT02,072,"Cray Soldier",1,Nova Grappler,Normal Unit,C
+BT02,073,"Three Minutes",0,Nova Grappler,Draw Trigger,C
+BT02,074,"Red Lightning",0,Nova Grappler,Critical Trigger,C
+BT02,075,"Blazer Idols",1,Bermuda Triangle,Normal Unit,C
+BT02,076,"Lady Bomb",2,Megacolony,Normal Unit,C
+BT02,077,"Phantom Black",1,Megacolony,Normal Unit,C
+BT02,078,"Megacolony Battler A",0,Megacolony,Normal Unit,C
+BT02,079,"Silver Wolf",1,Great Nature,Normal Unit,C
 BT02,080,"Intelli-mouse",0,Great Nature,Normal Unit,C
