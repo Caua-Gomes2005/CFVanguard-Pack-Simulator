@@ -1,16 +1,21 @@
 set,id,name,grade,clan,type,rarity,qtt
-BT02,10,"Cheer Girl, Marilyn",1,Spike Brothers,Normal Unit,RR,1
-BT02,22,"Treasured, Black Panther",2,Spike Brothers,Normal Unit,R,1
-BT02,37,"Bermuda Triangle Cadet, Caravel",0,Bermuda Triangle,Normal Unit,R,1
-BT02,45,Sonic Breaker,0,Spike Brothers,Critical Trigger,C,1
-BT02,48,Silence Joker,0,Spike Brothers,Critical Trigger,C,1
-BT02,49,Skeleton Swordsman,2,Granblue,Normal Unit,C,1
-BT02,50,Monster Frank,2,Granblue,Normal Unit,C,1
-BT02,53,Rough Seas Banshee,0,Granblue,Critical Trigger,C,1
-BT02,56,Doctor Rouge,0,Granblue,Heal Trigger,C,1
-BT02,57,Ghostie Ship,3,Granblue,Normal Unit,C,1
-BT02,58,Guiding Zombie,0,Granblue,Normal Unit,C,1
-BT02,61,"Flame of Promise, Aermo",1,Kagero,Normal Unit,C,1
-BT02,64,"Tyrant, Deathrex",3,Tachikaze,Normal Unit,C,1
-BT02,74,"Mermaid Idol, Felucca",1,Bermuda Triangle,Normal Unit,C,1
-BT02,80,Intelli-mouse,0,Great Nature,Normal Unit,C,1
+BT01,22,"Dragon Knight, Nehalem",2,Kagero,Normal Unit,R,2
+BT01,24,"Embodiment of Spear, Tahr",0,Kagero,Critical Trigger,R,1
+BT01,34,"Assault Dragon, Blightops",2,Tachikaze,Normal Unit,R,1
+BT01,39,Hell Spider,3,Megacolony,Normal Unit,R,1
+BT01,42,"Little Sage, Marron",1,Royal Paladin,Normal Unit,C,1
+BT01,44,Wingal,1,Royal Paladin,Normal Unit,C,1
+BT01,49,"Dragon Monk, Gojo",1,Kagero,Normal Unit,C,2
+BT01,53,"Dragon Monk, Genjo",0,Kagero,Heal Trigger,C,2
+BT01,56,"Oracle Guardian, Nike",0,Oracle Think Tank,Critical Trigger,C,2
+BT01,59,Hungry Dumpty,2,Nova Grappler,Normal Unit,C,1
+BT01,62,Clay-doll Mechanic,1,Nova Grappler,Normal Unit,C,2
+BT01,64,Lucky Girl,0,Nova Grappler,Stand Trigger,C,1
+BT01,68,"Stealth Beast, Chigasumi",2,Nubatama,Normal Unit,C,1
+BT01,71,Blue Dust,2,Dark Irregulars,Normal Unit,C,1
+BT01,72,Nightmare Baby,1,Dark Irregulars,Normal Unit,C,1
+BT01,74,"Highspeed, Brakki",2,Spike Brothers,Normal Unit,C,1
+BT01,75,Wonder Boy,1,Spike Brothers,Normal Unit,C,1
+BT01,76,"Redshoe, Milly",0,Spike Brothers,Normal Unit,C,1
+BT01,77,"Dandy Guy, Romario",1,Granblue,Normal Unit,C,1
+BT01,79,Karma Queen,1,Megacolony,Normal Unit,C,1

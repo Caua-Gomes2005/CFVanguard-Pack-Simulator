@@ -3,6 +3,8 @@ import sys
 import random as rd
 import webbrowser
 
+from matplotlib.pylab import save
+
 def instalar(package): #Instala o pacote necessário caso ele não esteja instalado
     subprocess.check_call([sys.executable, "-m", "pip", "install", package])
 
@@ -18,19 +20,32 @@ def gerar_link_wiki(nome_carta):
     return f'https://cardfight.fandom.com/wiki/{nome_formatado}'
 
 def web_colecao(nome):
-    try:
-        save = pd.read_csv(f'{nome}.csv')
-        print(f'Abrindo a Wiki de: {len(save)} cartas...')
-        for index, row in save.iterrows():
-            link = gerar_link_wiki(row['name'])
-            webbrowser.open(link) # Isso abre o navegador automaticamente
-    except:
-        print('Erro ao carregar coleção.')
+    if str(type(nome)) == "<class 'pandas.DataFrame'>":
+        try:
+            for index, row in nome.iterrows():
+                link = gerar_link_wiki(row['name'])
+                webbrowser.open(link) 
+        except:
+            print('Erro ao carregar coleção.')
+    else:
+        try:
+            save = pd.read_csv(f'{nome}.csv')
+            print(f'Abrindo a Wiki de: {len(save)} cartas...')
+            for index, row in save.iterrows():
+                link = gerar_link_wiki(row['name'])
+                webbrowser.open(link) # Isso abre o navegador automaticamente
+        except:
+            print('Erro ao carregar coleção.')
 
 def escolhe_pacote(name):
-    data = pd.read_csv(f'packs\{name}.csv')
-    for index, row in data.iterrows(): 
-        print(f'0{row["id"]} {row["name"]} - {row["grade"]} - {row["clan"]} - {row["type"]} - {row["rarity"]}')
+    view = input('Deseja ver as cartas desse pacote na Wiki?(s/n): ')
+    if view == 's':
+        link = direct[direct['set'] == name.upper()]['link'].values[0]
+        webbrowser.open(link)
+    else:
+        data = pd.read_csv(f'packs\{name}.csv')
+        for index, row in data.iterrows(): 
+            print(f'0{row["id"]} {row["name"]} - {row["grade"]} - {row["clan"]} - {row["type"]} - {row["rarity"]}')
 
 def ver_colecao(nome):
     try:
@@ -114,7 +129,7 @@ def filtra_colecao(tipo, filtro):
     else:
         for index, row in save.iterrows():
             print(f'0{row["id"]} {row["name"]} - {row["grade"]} - {row["clan"]} - {row["type"]} - {row["rarity"]} - Qtt: {row["qtt"]}')
-        
+    return save    
 #Main
 
 try: #Cria um backup para garantir que a coleção não seja sobreescrita acidentalmente
@@ -123,10 +138,12 @@ except:
     backup = pd.DataFrame(columns=['set', 'id', 'name', 'grade', 'clan', 'type', 'rarity', 'qtt']) 
 backup.to_csv('save_backup.csv', index=False)
 
+direct = pd.read_csv('packs\direct.csv')
+
 #Tela de entrada
 print('Seja bem vindo ao CF Vanguard Pack Simulator!')
 print('O que gostaria de fazer?: ')
-option = input('1 - Rodar pacotes \n2 - Ver pacotes disponíveis \n3 - Ver sua coleção \n4 - Sair \nDigite o número da opção desejada: ')
+option = input('1 - Rodar pacotes \n2 - Ver pacotes disponíveis \n3 - Ver sua coleção \n4 - Sair \n\nDigite o número da opção desejada: ')
 
 if option == '1':
     name = input('Digite o nome do pacote (ex: BT01): ')
@@ -147,6 +164,8 @@ if option == '1':
     input('\nPressione Enter para sair...')
 
 elif option == '2':
+    for index, row in direct.iterrows():
+        print(f'{row["set"]}')
     name = input('Digite o nome do pacote (ex: BT01): ')
     escolhe_pacote(name)
     input('\nPressione Enter para sair...')
@@ -156,7 +175,13 @@ elif option == '3':
     if filtro == 's':
         tipo = input('Digite o tipo de filtro (ex: rarity): ')
         valor = input('Digite o valor do filtro (ex: R): \n')
-        filtra_colecao(tipo, valor)
+        filtrada = filtra_colecao(tipo, valor)
+        view = input('Deseja ver as cartas filtradas na Wiki?(s/n):')
+        if view == 's':
+            web_colecao(filtrada)
+        else:
+            print('Tudo bem! Você pode ver as cartas filtradas na coleção aqui mesmo.')
+
     else:
         ver_colecao('save')
     input('\nPressione Enter para sair...')
