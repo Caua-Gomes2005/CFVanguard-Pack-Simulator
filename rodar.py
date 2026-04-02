@@ -20,9 +20,9 @@ def gerar_link_wiki(nome_carta):
 def web_colecao(nome):
     try:
         save = pd.read_csv(f'{nome}.csv')
+        print(f'Abrindo a Wiki de: {len(save)} cartas...')
         for index, row in save.iterrows():
             link = gerar_link_wiki(row['name'])
-            print(f'Abrindo Wiki de: {row["name"]}...')
             webbrowser.open(link) # Isso abre o navegador automaticamente
     except:
         print('Erro ao carregar coleção.')
@@ -133,7 +133,17 @@ if option == '1':
     qtt = int(input('Digite a quantidade de pacotes que deseja abrir: '))
     box = rodar_box(name.upper(), qtt)
     print('Pacotes abertos! As cartas foram salvas em last_box.csv e a coleção foi atualizada em save.csv')
-    web_colecao('last_box')
+    view = input('Deseja ver as cartas que você tirou de que forma? \n1 - Mostre aqui \n2 - Abra a Wiki \n3 - Não mostrar \n:')
+    if view == '1':
+        lb = pd.read_csv('last_box.csv')
+        for index, row in lb.iterrows():
+            print(f'0{row["id"]} {row["name"]} - {row["grade"]} - {row["clan"]} - {row["type"]} - {row["rarity"]} - Qtt: {row["qtt"]}')
+    elif view == '2':
+        web_colecao('last_box')
+    elif view == '3':
+        print('Tudo bem! Você pode ver as cartas que tirou na last_box.csv')
+    else: 
+        print('Opção inválida! Mas você ainda pode ver as cartas que tirou na last_box.csv')
     input('\nPressione Enter para sair...')
 
 elif option == '2':
