@@ -11,6 +11,22 @@ except ImportError:
     import pandas as pd
 
 import random as rd
+import webbrowser
+
+def gerar_link_wiki(nome_carta):
+    # A wiki usa underscores no lugar de espaços
+    nome_formatado = nome_carta.replace(' ', '_')
+    return f'https://cardfight.fandom.com/wiki/{nome_formatado}'
+
+def web_colecao(nome):
+    try:
+        save = pd.read_csv(f'{nome}.csv')
+        for index, row in save.iterrows():
+            link = gerar_link_wiki(row['name'])
+            print(f'Abrindo Wiki de: {row["name"]}...')
+            webbrowser.open(link) # Isso abre o navegador automaticamente
+    except:
+        print('Erro ao carregar coleção.')
 
 def escolhe_pacote(name):
     data = pd.read_csv(f'packs\{name}.csv')
@@ -86,6 +102,12 @@ def rodar_box(name, qtt):
     save.to_csv('save.csv', index=False)
     return box
 
+try:
+    backup = pd.read_csv('save.csv')
+except:
+    backup = pd.DataFrame(columns=['set', 'id', 'name', 'grade', 'clan', 'type', 'rarity', 'qtt'])
+backup.to_csv('save_backup.csv', index=False)
+
 print('Seja bem vindo ao CF Vanguard Pack Simulator!')
 
 print('O que gostaria de fazer?: ')
@@ -96,7 +118,7 @@ if option == '1':
     qtt = int(input('Digite a quantidade de pacotes que deseja abrir: '))
     box = rodar_box(name.upper(), qtt)
     print('Pacotes abertos! As cartas foram salvas em last_box.csv e a coleção foi atualizada em save.csv')
-    ver_colecao('last_box')
+    web_colecao('last_box')
     input('\nPressione Enter para sair...')
 
 if option == '2':
@@ -111,4 +133,3 @@ if option == '3':
 if option == '4':
     print('Obrigado por usar o CF Vanguard Pack Simulator! Até a próxima!')
     input('\nPressione Enter para sair...')
-
