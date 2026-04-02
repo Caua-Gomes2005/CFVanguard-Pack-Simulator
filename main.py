@@ -70,10 +70,9 @@ def rodar_pacote(name):
         raridade = 'R'
     elif luck <= 90:
         raridade = 'RR'
-    elif luck <= 99:
-        raridade = 'RRR'
     else:
-        raridade = 'SP'
+        raridade = 'RRR'
+
 
     raras = data[data['rarity'] == raridade]
     r_tirada = raras.sample(n=1).to_dict('records')
