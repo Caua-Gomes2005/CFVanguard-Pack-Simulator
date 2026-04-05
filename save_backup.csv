@@ -65,12 +65,17 @@ BT01,78,Guiding Zombie,0,Granblue,Normal Unit,C,3
 BT01,79,Karma Queen,1,Megacolony,Normal Unit,C,3
 BT01,80,Madame Mirage,0,Megacolony,Normal Unit,C,2
 BT02,21,Unite Attacker,3,Spike Brothers,Normal Unit,R,1
+BT02,24,Mecha Trainer,0,Spike Brothers,Normal Unit,R,1
 BT02,39,Scientist Monkey Rue,3,Great Nature,Normal Unit,R,1
 BT02,41,Panzer Gale,2,Spike Brothers,Normal Unit,C,1
+BT02,46,Cheerful Lynx,0,Spike Brothers,Draw Trigger,C,1
+BT02,50,Samurai Spirit,1,Granblue,Normal Unit,C,1
 BT02,58,Pixy Fife and Drum,0,Royal Paladin,Stand Trigger,C,1
 BT02,62,"Follower, Reas",1,Kagero,Normal Unit,C,1
 BT02,64,Gattling Claw Dragon,0,Kagero,Draw Trigger,C,1
 BT02,71,NGM Prototype,2,Nova Grappler,Normal Unit,C,1
 BT02,75,Blazer Idols,1,Bermuda Triangle,Normal Unit,C,1
 BT02,76,Lady Bomb,2,Megacolony,Normal Unit,C,1
+BT02,77,Phantom Black,1,Megacolony,Normal Unit,C,1
+BT02,78,Megacolony Battler A,0,Megacolony,Normal Unit,C,1
 BT02,80,Intelli-mouse,0,Great Nature,Normal Unit,C,1
