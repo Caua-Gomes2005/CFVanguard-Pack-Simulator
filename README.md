@@ -9,13 +9,13 @@ Como utilizar:
 
 1 - Baixe o arquivo rar CFVanguard Pack Simulator
 
-2 - python instalado
+2 - Veja os pacotes disponiveis na segunda aba
 
-3 - abra a pasta pelo cmd
+3 - Escolha um pacote e rode quantos dele quiser
 
-4 - abra o arquivo rodar.py
+4 - Veja eles na sua coleção
 
-5 - escolha qualquer uma das opções, elas terão instruções para como prosseguir 
+5 - Divirta-se
 
 Caso abra mais pacotes do que deveria, mude o nome de save_backup.csv para save.csv e apague o ultimo save
 
