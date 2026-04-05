@@ -1,14 +1,15 @@
 set,id,name,grade,clan,type,rarity,qtt
-BT01,30,King of Sword,2,Nova Grappler,Normal Unit,R,1
-BT01,35,"Stealth Dragon, Voidmaster",3,Nubatama,Normal Unit,R,1
-BT01,38,Commodore Blueblood,2,Granblue,Normal Unit,R,1
-BT01,45,"Weapons Dealer, Govannon",0,Royal Paladin,Draw Trigger,C,1
-BT01,48,"Embodiment of Armor, Bahr",1,Kagero,Normal Unit,C,1
+BT01,3,Barcgal,0,Royal Paladin,Normal Unit,RRR,1
+BT01,11,"Flash Shield, Iseult",1,Royal Paladin,Normal Unit,RR,1
+BT01,34,"Assault Dragon, Blightops",2,Tachikaze,Normal Unit,R,1
+BT01,47,"Yggdrasil Maiden, Elaine",0,Royal Paladin,Heal Trigger,C,2
+BT01,49,"Dragon Monk, Gojo",1,Kagero,Normal Unit,C,1
+BT01,50,"Wyvern Strike, Jarran",1,Kagero,Normal Unit,C,1
 BT01,52,"Lizard Soldier, Ganlu",0,Kagero,Stand Trigger,C,1
+BT01,56,"Oracle Guardian, Nike",0,Oracle Think Tank,Critical Trigger,C,1
 BT01,61,"Screamin' and Dancin' Announcer, Shout",1,Nova Grappler,Normal Unit,C,1
-BT01,62,Clay-doll Mechanic,1,Nova Grappler,Normal Unit,C,1
-BT01,66,Sonic Noa,1,Tachikaze,Normal Unit,C,1
-BT01,70,"Stealth Beast, Hagakure",0,Nubatama,Normal Unit,C,2
-BT01,73,Rock the Wall,0,Dark Irregulars,Normal Unit,C,1
-BT01,74,"Highspeed, Brakki",2,Spike Brothers,Normal Unit,C,1
-BT01,77,"Dandy Guy, Romario",1,Granblue,Normal Unit,C,2
+BT01,64,Lucky Girl,0,Nova Grappler,Stand Trigger,C,1
+BT01,67,"Ironclad Dragon, Shieldon",0,Tachikaze,Normal Unit,C,1
+BT01,68,"Stealth Beast, Chigasumi",2,Nubatama,Normal Unit,C,1
+BT01,71,Blue Dust,2,Dark Irregulars,Normal Unit,C,1
+BT01,72,Nightmare Baby,1,Dark Irregulars,Normal Unit,C,1
