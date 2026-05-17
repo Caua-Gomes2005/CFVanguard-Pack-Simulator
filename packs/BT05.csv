@@ -1,0 +1,81 @@
+set,id,name,grade,clan,type,rarity
+BT05,001,"Covert Demonic Dragon, Mandala Lord",3,Murakumo,Normal Unit,RRR+SP
+BT05,002,"Majesty Lord Blaster",3,Royal Paladin,Normal Unit,RRR+SP
+BT05,003,"Star Call Trumpeter",2,Royal Paladin,Normal Unit,RRR+SP
+BT05,004,"Phantom Blaster Overlord",3,Shadow Paladin,Normal Unit,RRR+SP
+BT05,005,"Dragonic Overlord the End",3,Kagero,Normal Unit,RRR+SP
+BT05,006,"Miracle Beauty",3,Dimension Police,Normal Unit,RRR+SP
+BT05,007,"King of Diptera, Beelzebub",3,Dark Irregulars,Normal Unit,RRR+SP
+BT05,008,"Mistress Hurricane",3,Pale Moon,Normal Unit,RRR+SP
+BT05,009,"Maiden of Trailing Rose",3,Neo Nectar,Normal Unit,RR+SP
+BT05,010,"Glass Beads Dragon",2,Neo Nectar,Normal Unit,RR
+BT05,011,"Maiden of Blossom Rain",1,Neo Nectar,Normal Unit,RR
+BT05,012,"Stealth Fiend, Midnight Crow",2,Murakumo,Normal Unit,RR+SP
+BT05,013,"Stealth Beast, Leaves Mirage",1,Murakumo,Normal Unit,RR
+BT05,014,"Knight of Loyalty, Bedivere",2,Royal Paladin,Normal Unit,RR
+BT05,015,"Knight of Friendship, Kay",1,Royal Paladin,Normal Unit,RR
+BT05,016,"Wingal Brave",0,Royal Paladin,Normal Unit,RR+SP
+BT05,017,"Moonlight Witch, Vaha",2,Shadow Paladin,Normal Unit,RR
+BT05,018,"Knight of Nullity, Masquerade",2,Shadow Paladin,Normal Unit,RR+SP
+BT05,019,"Evil-eye Princess, Euryale",3,Oracle Think Tank,Normal Unit,RR
+BT05,020,"Street Bouncer",2,Nova Grappler,Normal Unit,RR
+BT05,021,"Frontline Valkyrie, Laurel",3,Neo Nectar,Normal Unit,R
+BT05,022,"Knight of Harvest, Gene",3,Neo Nectar,Normal Unit,R
+BT05,023,"Avatar of the Plains, Behemoth",3,Neo Nectar,Normal Unit,R
+BT05,024,"Iris Knight",2,Neo Nectar,Normal Unit,R
+BT05,025,"Hey Yo Pineapple",2,Neo Nectar,Normal Unit,R
+BT05,026,"Shield Seed Squire",0,Neo Nectar,Normal Unit,R
+BT05,027,"Stealth Fiend, Kurama Lord",3,Murakumo,Normal Unit,R
+BT05,028,"Stealth Dragon, Voidgelga",3,Murakumo,Normal Unit,R
+BT05,029,"Stealth Beast, Bloody Mist",2,Murakumo,Normal Unit,R
+BT05,030,"Caped Stealth Rogue, Shanaou",2,Murakumo,Normal Unit,R
+BT05,031,"Stealth Dragon, Cursed Breath",2,Murakumo,Normal Unit,R
+BT05,032,"Stealth Dragon, Turbulent Edge",1,Murakumo,Normal Unit,R
+BT05,033,"Stealth Beast, Million Rat",1,Murakumo,Normal Unit,R
+BT05,034,"Stealth Beast, Evil Ferret",0,Murakumo,Normal Unit,R
+BT05,035,"Knight of Purgatory, Skull Face",3,Shadow Paladin,Normal Unit,R
+BT05,036,"Apocalypse Bat",1,Shadow Paladin,Normal Unit,R
+BT05,037,"Burning Horn Dragon",2,Kagero,Normal Unit,R
+BT05,038,"Flame of Promise, Aermo",1,Kagero,Normal Unit,R
+BT05,039,"Magical Police Quilt",1,Dimension Police,Normal Unit,R
+BT05,040,"Devil Child",1,Dark Irregulars,Normal Unit,R
+BT05,041,"Knight of Verdure, Gene",2,Neo Nectar,Normal Unit,C
+BT05,042,"Colossal Wings, Simurgh",2,Neo Nectar,Normal Unit,C
+BT05,043,"Spiritual Tree Sage, Irminsul",2,Neo Nectar,Normal Unit,C
+BT05,044,"Corolla Dragon",1,Neo Nectar,Normal Unit,C
+BT05,045,"Caramel Popcorn",1,Neo Nectar,Normal Unit,C
+BT05,046,"Lady of the Sunlight Forest",1,Neo Nectar,Normal Unit,C
+BT05,047,"Blade Seed Squire",1,Neo Nectar,Normal Unit,C
+BT05,048,"Lily Knight of the Valley",1,Neo Nectar,Normal Unit,C
+BT05,049,"Pea Knight",0,Neo Nectar,Normal Unit,C
+BT05,050,"Chestnut Bullet",0,Neo Nectar,Critical Trigger,C
+BT05,051,"Dancing Sunflower",0,Neo Nectar,Draw Trigger,C
+BT05,052,"Sweet Honey",0,Neo Nectar,Heal Trigger,C
+BT05,053,"Watering Elf",0,Neo Nectar,Stand Trigger,C
+BT05,054,"Stealth Beast, White Mane",2,Murakumo,Normal Unit,C
+BT05,055,"Stealth Rogue of Silence, Shijimamaru",1,Murakumo,Normal Unit,C
+BT05,056,"Stealth Beast, Leaf Raccoon",1,Murakumo,Normal Unit,C
+BT05,057,"Stealth Beast, Moon Edge",0,Murakumo,Critical Trigger,C
+BT05,058,"Stealth Beast, Cat Rouge",0,Murakumo,Draw Trigger,C
+BT05,059,"Stealth Fiend, Yukihime",0,Murakumo,Heal Trigger,C
+BT05,060,"Stealth Fiend, Dart Spider",0,Murakumo,Stand Trigger,C
+BT05,061,"Powerful Sage, Bairon",3,Royal Paladin,Normal Unit,C
+BT05,062,"Dream Painter",1,Royal Paladin,Normal Unit,C
+BT05,063,"Silent Sage, Sharon",0,Royal Paladin,Stand Trigger,C
+BT05,064,"Nightmare Painter",1,Shadow Paladin,Normal Unit,C
+BT05,065,"Phantom Bringer Demon",0,Shadow Paladin,Normal Unit,C
+BT05,066,"Death Feather Eagle",0,Shadow Paladin,Critical Trigger,C
+BT05,067,"Battle Maiden, Tagitsuhime",2,Oracle Think Tank,Normal Unit,C
+BT05,068,"White Hare of Inaba",1,Oracle Think Tank,Normal Unit,C
+BT05,069,"Battle Sister, Ginger",0,Oracle Think Tank,Critical Trigger,C
+BT05,070,"Doom Bringer Griffin",0,Kagero,Normal Unit,C
+BT05,071,"Top Gun",3,Nova Grappler,Normal Unit,C
+BT05,072,"Anthrodroid",1,Nova Grappler,Normal Unit,C
+BT05,073,"The Gong",0,Nova Grappler,Draw Trigger,C
+BT05,074,"Super Dimensional Robo, Dailady",2,Dimension Police,Normal Unit,C
+BT05,075,"Guide Dolphin",0,Dimension Police,Stand Trigger,C
+BT05,076,"Dark Soul Conductor",2,Dark Irregulars,Normal Unit,C
+BT05,077,"Hysteric Shirley",0,Dark Irregulars,Draw Trigger,C
+BT05,078,"Big League Bear",2,Pale Moon,Normal Unit,C
+BT05,079,"Madcap Marionette",1,Pale Moon,Normal Unit,C
+BT05,080,"Skyhigh Walker",0,Pale Moon,Stand Trigger,C

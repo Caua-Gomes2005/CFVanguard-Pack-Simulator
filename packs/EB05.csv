@@ -1,0 +1,36 @@
+set,id,name,grade,clan,type,rarity
+EB05,001,"CEO Amaterasu",3,Oracle Think Tank,Normal Unit,RRR+SP
+EB05,002,"Battle Sister, Fromage",3,Oracle Think Tank,Normal Unit,RRR+SP
+EB05,003,"Scarlet Witch, CoCo",3,Oracle Think Tank,Normal Unit,RR
+EB05,004,"Goddess of Flower Divination, Sakuya",3,Oracle Think Tank,Normal Unit,RR
+EB05,005,"Battle Sister, Macaron",2,Oracle Think Tank,Normal Unit,RR
+EB05,006,"Silent Tom",2,Oracle Think Tank,Normal Unit,RR
+EB05,007,"Battle Sister, Chocolat",1,Oracle Think Tank,Normal Unit,RR
+EB05,008,"Meteor Break Wizard",3,Oracle Think Tank,Normal Unit,R
+EB05,009,"Maiden of Libra",2,Oracle Think Tank,Normal Unit,R
+EB05,010,"Battle Sister, Glace",2,Oracle Think Tank,Normal Unit,R
+EB05,011,"Battle Sister, Mocha",2,Oracle Think Tank,Normal Unit,R
+EB05,012,"Circle Magus",1,Oracle Think Tank,Normal Unit,R
+EB05,013,"Battle Sister, Omelet",1,Oracle Think Tank,Normal Unit,R
+EB05,014,"Weather Forecaster, Miss Mist",1,Oracle Think Tank,Normal Unit,R
+EB05,015,"Battle Sister, Cocoa",1,Oracle Think Tank,Normal Unit,R
+EB05,016,"Omniscience Madonna",3,Oracle Think Tank,Normal Unit,C
+EB05,017,"Oracle Guardian, Apollon",3,Oracle Think Tank,Normal Unit,C
+EB05,018,"Battle Sister, Souffle",3,Oracle Think Tank,Normal Unit,C
+EB05,019,"Battle Sister, Tarte",2,Oracle Think Tank,Normal Unit,C
+EB05,020,"Battle Maiden, Tagitsuhime",2,Oracle Think Tank,Normal Unit,C
+EB05,021,"Oracle Guardian, Red Eye",2,Oracle Think Tank,Normal Unit,C
+EB05,022,"Oracle Guardian, Gemini",1,Oracle Think Tank,Normal Unit,C
+EB05,023,"Dark Cat",1,Oracle Think Tank,Normal Unit,C
+EB05,024,"White Hare of Inaba",1,Oracle Think Tank,Normal Unit,C
+EB05,025,"Battle Sister, Vanilla",1,Oracle Think Tank,Normal Unit,C
+EB05,026,"One Who Gazes at the Truth",1,Oracle Think Tank,Normal Unit,C
+EB05,027,"Luck Bird",1,Oracle Think Tank,Normal Unit,C
+EB05,028,"Battle Sister, Waffle",0,Oracle Think Tank,Normal Unit,C
+EB05,029,"Battle Sister, Ginger",0,Oracle Think Tank,Critical Trigger,C
+EB05,030,"Dream Eater",0,Oracle Think Tank,Draw Trigger,C
+EB05,031,"Battle Sister, Tiramisu",0,Oracle Think Tank,Draw Trigger,C
+EB05,032,"Battle Sister, Assam",0,Oracle Think Tank,Stand Trigger,C
+EB05,033,"Battle Sister, Chai",0,Oracle Think Tank,Heal Trigger,C
+EB05,034,"Psychic Bird",0,Oracle Think Tank,Critical Trigger,C
+EB05,035,"Lozenge Magus",0,Oracle Think Tank,Heal Trigger,C

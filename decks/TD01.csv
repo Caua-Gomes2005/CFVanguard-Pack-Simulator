@@ -1,0 +1,17 @@
+set,id,name,grade,clan,type,rarity,qtt
+TD01,001,"Crimson Butterfly, Brigitte",3,Royal Paladin,Normal Unit,,4
+TD01,002,"Knight of Conviction, Bors",3,Royal Paladin,Normal Unit,,1
+TD01,003,"Solitary Knight, Gancelot",3,Royal Paladin,Normal Unit,,2
+TD01,004,"Knight of Silence, Gallatin",2,Royal Paladin,Normal Unit,,4
+TD01,005,"Blaster Blade",2,Royal Paladin,Normal Unit,,1
+TD01,006,"Knight of the Harp, Tristan",2,Royal Paladin,Normal Unit,,3
+TD01,007,"Covenant Knight, Randolf",2,Royal Paladin,Normal Unit,,4
+TD01,008,"Little Sage, Marron",1,Royal Paladin,Normal Unit,,4
+TD01,009,"Wingal",1,Royal Paladin,Normal Unit,,2
+TD01,010,"Starlight Unicorn",1,Royal Paladin,Normal Unit,,4
+TD01,011,"Knight of Rose, Morgana",1,Royal Paladin,Normal Unit,,4
+TD01,012,"Stardust Trumpeter",0,Royal Paladin,Normal Unit,,1
+TD01,013,"Bringer of Good Luck, Epona",0,Royal Paladin,Critical Trigger,,4
+TD01,014,"Yggdrasil Maiden, Elaine",0,Royal Paladin,Heal Trigger,,4
+TD01,015,"Weapons Dealer, Govannon",0,Royal Paladin,Draw Trigger,,4
+TD01,016,"Flogal",0,Royal Paladin,Stand Trigger,,4

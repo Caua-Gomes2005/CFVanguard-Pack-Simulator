@@ -1,0 +1,16 @@
+set,id,name,grade,clan,type,rarity,qtt
+TD03,001,"Gold Rutile",3,Nova Grappler,Normal Unit,,1
+TD03,002,"Death Metal Droid",3,Nova Grappler,Normal Unit,,2
+TD03,003,"Mr. Invincible",3,Nova Grappler,Normal Unit,,4
+TD03,004,"King of Sword",2,Nova Grappler,Normal Unit,,4
+TD03,005,"Super Electromagnetic Lifeform, Storm",2,Nova Grappler,Normal Unit,,2
+TD03,006,"NGM Prototype",2,Nova Grappler,Normal Unit,,4
+TD03,007,"Tough Boy",1,Nova Grappler,Normal Unit,,4
+TD03,008,"Oasis Girl",1,Nova Grappler,Normal Unit,,4
+TD03,009,"Screamin' and Dancin' Announcer, Shout",1,Nova Grappler,Normal Unit,,4
+TD03,010,"Queen of Heart",1,Nova Grappler,Normal Unit,,3
+TD03,011,"Battering Minotaur",1,Nova Grappler,Normal Unit,,2
+TD03,012,"Shining Lady",0,Nova Grappler,Critical Trigger,,4
+TD03,013,"Cannon Ball",0,Nova Grappler,Stand Trigger,,4
+TD03,014,"Ring Girl, Clara",0,Nova Grappler,Heal Trigger,,4
+TD03,015,"Battleraizer",0,Nova Grappler,Stand Trigger,,4

@@ -1,0 +1,103 @@
+set,id,name,grade,clan,type,rarity
+BT07,001,"School Hunter, Leo-pald",3,Great Nature,Normal Unit,RRR+SP
+BT07,002,"Guardian of Truth, Lox",3,Great Nature,Normal Unit,RRR+SP
+BT07,003,"Binoculus Tiger",2,Great Nature,Normal Unit,RRR+SP
+BT07,004,"Silver Thorn Dragon Tamer, Luquier",3,Pale Moon,Normal Unit,RRR+SP
+BT07,005,"Dark Lord of Abyss",3,Dark Irregulars,Normal Unit,RRR+SP
+BT07,006,"Emerald Witch, LaLa",1,Oracle Think Tank,Normal Unit,RRR+SP
+BT07,007,"White Hare in the Moon's Shadow, Pellinore",3,Gold Paladin,Normal Unit,RRR+SP
+BT07,008,"Chief Nurse, Shamsiel",3,Angel Feather,Normal Unit,RRR+SP
+BT07,009,"School Dominator, Apt",3,Great Nature,Normal Unit,RR+SP
+BT07,010,"Lamp Camel",2,Great Nature,Normal Unit,RR
+BT07,011,"Monoculus Tiger",1,Great Nature,Normal Unit,RR+SP
+BT07,012,"Cable Sheep",1,Great Nature,Normal Unit,RR
+BT07,013,"Sword Magician, Sarah",3,Pale Moon,Normal Unit,RR+SP
+BT07,014,"Fire Breeze, Carrie",2,Pale Moon,Normal Unit,RR
+BT07,015,"Peek-a-boo",2,Pale Moon,Normal Unit,RR
+BT07,016,"Magician of Quantum Mechanics",1,Pale Moon,Normal Unit,RR
+BT07,017,"Blade Wing Reijy",3,Dark Irregulars,Normal Unit,RR+SP
+BT07,018,"Emblem Master",2,Dark Irregulars,Normal Unit,RR
+BT07,019,"Yellow Bolt",1,Dark Irregulars,Normal Unit,RR
+BT07,020,"Listener of Truth, Dindrane",1,Gold Paladin,Normal Unit,RR
+BT07,021,"Pencil Hero, Hammsuke",3,Great Nature,Normal Unit,R
+BT07,022,"Dumbbell Kangaroo",3,Great Nature,Normal Unit,R
+BT07,023,"Magnet Crocodile",3,Great Nature,Normal Unit,R
+BT07,024,"Law Official, Lox",2,Great Nature,Normal Unit,R
+BT07,025,"Pencil Squire, Hammsuke",1,Great Nature,Normal Unit,R
+BT07,026,"Thermometer Giraffe",1,Great Nature,Normal Unit,R
+BT07,027,"Tank Mouse",1,Great Nature,Normal Unit,R
+BT07,028,"Flask Marmoset",0,Great Nature,Normal Unit,R
+BT07,029,"Midnight Invader",3,Pale Moon,Normal Unit,R
+BT07,030,"Dancing Princess of the Night Sky",2,Pale Moon,Normal Unit,R
+BT07,031,"Bull's Eye, Mia",1,Pale Moon,Normal Unit,R
+BT07,032,"Purple Trapezist",1,Pale Moon,Normal Unit,R
+BT07,033,"Evil Eye Basilisk",3,Dark Irregulars,Normal Unit,R
+BT07,034,"Hades Carriage of the Witching Hour",2,Dark Irregulars,Normal Unit,R
+BT07,035,"Free Traveler",2,Dark Irregulars,Normal Unit,R
+BT07,036,"Courting Succubus",1,Dark Irregulars,Normal Unit,R
+BT07,037,"Sky Witch, NaNa",3,Oracle Think Tank,Normal Unit,R
+BT07,038,"Battle Sister, Glace",2,Oracle Think Tank,Normal Unit,R
+BT07,039,"Little Witch, LuLu",0,Oracle Think Tank,Normal Unit,R
+BT07,040,"Photon Archer, Griflet",3,Gold Paladin,Normal Unit,R
+BT07,041,"Lop Ear Shooter",2,Gold Paladin,Normal Unit,R
+BT07,042,"Spring Breeze Messenger",0,Gold Paladin,Normal Unit,R
+BT07,043,"Calculator Hippo",3,Great Nature,Normal Unit,C
+BT07,044,"Schoolbag Sea Lion",3,Great Nature,Normal Unit,C
+BT07,045,"Red Pencil Rhino",2,Great Nature,Normal Unit,C
+BT07,046,"Pencil Knight, Hammsuke",2,Great Nature,Normal Unit,C
+BT07,047,"Globe Armadillo",2,Great Nature,Normal Unit,C
+BT07,048,"Explosion Scientist, Bunta",2,Great Nature,Normal Unit,C
+BT07,049,"Multimeter Giraffe",2,Great Nature,Normal Unit,C
+BT07,050,"Canvas Koala",2,Great Nature,Normal Unit,C
+BT07,051,"Thumbtack Fighter, Resanori",1,Great Nature,Normal Unit,C
+BT07,052,"Tick Tock Flamingo",1,Great Nature,Normal Unit,C
+BT07,053,"Bringer of Knowledge, Lox",1,Great Nature,Normal Unit,C
+BT07,054,"Element Glider",1,Great Nature,Normal Unit,C
+BT07,055,"Failure Scientist, Ponkichi",1,Great Nature,Normal Unit,C
+BT07,056,"Feather Penguin",1,Great Nature,Normal Unit,C
+BT07,057,"Hula Hoop Capybara",1,Great Nature,Normal Unit,C
+BT07,058,"Acorn Master",0,Great Nature,Normal Unit,C
+BT07,059,"Schoolyard Prodigy, Lox",0,Great Nature,Normal Unit,C
+BT07,060,"Triangle Cobra",0,Great Nature,Critical Trigger,C
+BT07,061,"Fortune-bringing Cat",0,Great Nature,Draw Trigger,C
+BT07,062,"Alarm Chicken",0,Great Nature,Stand Trigger,C
+BT07,063,"Eraser Alpaca",0,Great Nature,Stand Trigger,C
+BT07,064,"Dictionary Goat",0,Great Nature,Heal Trigger,C
+BT07,065,"Ruler Chameleon",0,Great Nature,Critical Trigger,C
+BT07,066,"Nightmare Doll, Amy",3,Pale Moon,Normal Unit,C
+BT07,067,"Dreamy Fortress",2,Pale Moon,Normal Unit,C
+BT07,068,"See-saw Game Loser",2,Pale Moon,Normal Unit,C
+BT07,069,"Drawing Dread",2,Pale Moon,Normal Unit,C
+BT07,070,"Jumping Glenn",1,Pale Moon,Normal Unit,C
+BT07,071,"Dreamy Ammonite",1,Pale Moon,Normal Unit,C
+BT07,072,"See-saw Game Winner",1,Pale Moon,Normal Unit,C
+BT07,073,"Pinky Piggy",1,Pale Moon,Normal Unit,C
+BT07,074,"Girl Who Crossed the Gap",0,Pale Moon,Normal Unit,C
+BT07,075,"Innocent Magician",0,Pale Moon,Normal Unit,C
+BT07,076,"Flyer Flyer",0,Pale Moon,Draw Trigger,C
+BT07,077,"Cracker Musician",0,Pale Moon,Stand Trigger,C
+BT07,078,"Popcorn Boy",0,Pale Moon,Heal Trigger,C
+BT07,079,"Poison Juggler",0,Pale Moon,Critical Trigger,C
+BT07,080,"Demon Chariot of the Witching Hour",3,Dark Irregulars,Normal Unit,C
+BT07,081,"Beast in Hand",2,Dark Irregulars,Normal Unit,C
+BT07,082,"Cyber Beast",2,Dark Irregulars,Normal Unit,C
+BT07,083,"Demon Bike of the Witching Hour",1,Dark Irregulars,Normal Unit,C
+BT07,084,"Beautiful Harpuia",1,Dark Irregulars,Normal Unit,C
+BT07,085,"Mirage Maker",1,Dark Irregulars,Normal Unit,C
+BT07,086,"Rune Weaver",1,Dark Irregulars,Normal Unit,C
+BT07,087,"Greedy Hand",0,Dark Irregulars,Normal Unit,C
+BT07,088,"Devil in Shadow",0,Dark Irregulars,Normal Unit,C
+BT07,089,"Mad Hatter of Nightmareland",0,Dark Irregulars,Draw Trigger,C
+BT07,090,"Hungry Egg of Nightmareland",0,Dark Irregulars,Stand Trigger,C
+BT07,091,"Cheshire Cat of Nightmareland",0,Dark Irregulars,Heal Trigger,C
+BT07,092,"Dark Knight of Nightmareland",0,Dark Irregulars,Critical Trigger,C
+BT07,093,"Battle Sister, Souffle",3,Oracle Think Tank,Normal Unit,C
+BT07,094,"Oracle Guardian, Shisa",2,Oracle Think Tank,Normal Unit,C
+BT07,095,"Moonsault Swallow",1,Oracle Think Tank,Normal Unit,C
+BT07,096,"Battle Sister, Eclair",0,Oracle Think Tank,Normal Unit,C
+BT07,097,"Master of Pain",2,Gold Paladin,Normal Unit,C
+BT07,098,"Disciple of Pain",1,Gold Paladin,Normal Unit,C
+BT07,099,"Speeder Hound",0,Gold Paladin,Draw Trigger,C
+BT07,100,"Doctroid Megalos",2,Angel Feather,Normal Unit,C
+BT07,101,"Doctroid Micros",1,Angel Feather,Normal Unit,C
+BT07,102,"Hope Child, Turiel",0,Angel Feather,Normal Unit,C

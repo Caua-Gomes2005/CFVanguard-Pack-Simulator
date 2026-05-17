@@ -1,0 +1,81 @@
+set,id,name,grade,clan,type,rarity
+BT04,001,"Phantom Blaster Dragon",3,Shadow Paladin,Normal Unit,RRR
+BT04,002,"Darkness Maiden, Macha",2,Shadow Paladin,Normal Unit,RRR
+BT04,003,"Skull Witch, Nemain",2,Shadow Paladin,Normal Unit,RRR
+BT04,004,"Enigman Storm",3,Dimension Police,Normal Unit,RRR
+BT04,005,"Evil Armor General, Giraffa",3,Megacolony,Normal Unit,RRR
+BT04,006,"Amber Dragon, Eclipse",3,Kagero,Normal Unit,RRR
+BT04,007,"Heatnail Salamander",1,Kagero,Normal Unit,RRR
+BT04,008,"Stern Blaukluger",3,Nova Grappler,Normal Unit,RRR
+BT04,009,"Dark Metal Dragon",3,Shadow Paladin,Normal Unit,RR
+BT04,010,"Gururubau",1,Shadow Paladin,Normal Unit,RR
+BT04,011,"Dark Shield, Mac Lir",1,Shadow Paladin,Normal Unit,RR
+BT04,012,"Enigman Wave",2,Dimension Police,Normal Unit,RR
+BT04,013,"Cosmo Beak",2,Dimension Police,Normal Unit,RR
+BT04,014,"Diamond Ace",1,Dimension Police,Normal Unit,RR
+BT04,015,"Commander Laurel",1,Dimension Police,Normal Unit,RR
+BT04,016,"Elite Mutant, Giraffa",2,Megacolony,Normal Unit,RR
+BT04,017,"Paralyze Madonna",1,Megacolony,Normal Unit,RR
+BT04,018,"Amber Dragon, Dusk",2,Kagero,Normal Unit,RR
+BT04,019,"Blaukluger",2,Nova Grappler,Normal Unit,RR
+BT04,020,"Fang of Light, Garmore",3,Royal Paladin,Normal Unit,RR
+BT04,021,"Silver Spear Demon, Gusion",3,Shadow Paladin,Normal Unit,R
+BT04,022,"Dark Mage, Badhabh Caar",3,Shadow Paladin,Normal Unit,R
+BT04,023,"Knight of Darkness, Rugos",2,Shadow Paladin,Normal Unit,R
+BT04,024,"Blaster Dark",2,Shadow Paladin,Normal Unit,R
+BT04,025,"Fullbau",0,Shadow Paladin,Normal Unit,R
+BT04,026,"Enigman Rain",3,Dimension Police,Normal Unit,R
+BT04,027,"Twin Order",2,Dimension Police,Normal Unit,R
+BT04,028,"Platinum Ace",2,Dimension Police,Normal Unit,R
+BT04,029,"Cosmo Roar",1,Dimension Police,Normal Unit,R
+BT04,030,"Enigman Flow",0,Dimension Police,Normal Unit,R
+BT04,031,"Death Warden Ant Lion",3,Megacolony,Normal Unit,R
+BT04,032,"Violent Vesper",3,Megacolony,Normal Unit,R
+BT04,033,"Water Gang",2,Megacolony,Normal Unit,R
+BT04,034,"Gloom Flyman",1,Megacolony,Normal Unit,R
+BT04,035,"Larva Mutant, Giraffa",0,Megacolony,Normal Unit,R
+BT04,036,"Lizard Soldier, Raopia",1,Kagero,Normal Unit,R
+BT04,037,"Amber Dragon, Dawn",0,Kagero,Normal Unit,R
+BT04,038,"Armored Fairy, Shubiela",3,Nova Grappler,Normal Unit,R
+BT04,039,"Blaujunger",0,Nova Grappler,Normal Unit,R
+BT04,040,"Beast Knight, Garmore",2,Royal Paladin,Normal Unit,R
+BT04,041,"Demon World Castle, DonnerSchlag",2,Shadow Paladin,Normal Unit,C
+BT04,042,"Demon World Castle, Fatalita",2,Shadow Paladin,Normal Unit,C
+BT04,043,"Black Sage, Charon",1,Shadow Paladin,Normal Unit,C
+BT04,044,"Witch of Nostrum, Arianrhod",1,Shadow Paladin,Normal Unit,C
+BT04,045,"Doranbau",1,Shadow Paladin,Normal Unit,C
+BT04,046,"Blaster Javelin",1,Shadow Paladin,Normal Unit,C
+BT04,047,"Zappbau",0,Shadow Paladin,Normal Unit,C
+BT04,048,"Grim Reaper",0,Shadow Paladin,Critical Trigger,C
+BT04,049,"Abyss Freezer",0,Shadow Paladin,Draw Trigger,C
+BT04,050,"Darkside Trumpeter",0,Shadow Paladin,Stand Trigger,C
+BT04,051,"Abyss Healer",0,Shadow Paladin,Heal Trigger,C
+BT04,052,"Enigman Shine",3,Dimension Police,Normal Unit,C
+BT04,053,"Enigroid Comrade",2,Dimension Police,Normal Unit,C
+BT04,054,"Enigman Ripple",1,Dimension Police,Normal Unit,C
+BT04,055,"Glory Maker",1,Dimension Police,Normal Unit,C
+BT04,056,"Justice Cobalt",0,Dimension Police,Critical Trigger,C
+BT04,057,"Army Penguin",0,Dimension Police,Draw Trigger,C
+BT04,058,"Cosmo Fang",0,Dimension Police,Stand Trigger,C
+BT04,059,"Justice Rose",0,Dimension Police,Heal Trigger,C
+BT04,060,"Ironcutter Beetle",2,Megacolony,Normal Unit,C
+BT04,061,"Tail Joe",2,Megacolony,Normal Unit,C
+BT04,062,"Pupa Mutant, Giraffa",1,Megacolony,Normal Unit,C
+BT04,063,"Stealth Millipede",1,Megacolony,Normal Unit,C
+BT04,064,"Sharp Nail Scorpio",0,Megacolony,Critical Trigger,C
+BT04,065,"Raider Mantis",0,Megacolony,Draw Trigger,C
+BT04,066,"Sonic Cicada",0,Megacolony,Stand Trigger,C
+BT04,067,"Medical Battler, Ranpli",0,Megacolony,Heal Trigger,C
+BT04,068,"Garnet Dragon, Flash",3,Kagero,Normal Unit,C
+BT04,069,"Lava Arm Dragon",2,Kagero,Normal Unit,C
+BT04,070,"Amber Dragon, Daylight",1,Kagero,Normal Unit,C
+BT04,071,"Red Gem Carbuncle",0,Kagero,Draw Trigger,C
+BT04,072,"Flame Seed Salamander",0,Kagero,Stand Trigger,C
+BT04,073,"Eisenkugel",2,Nova Grappler,Normal Unit,C
+BT04,074,"Dancing Wolf",1,Nova Grappler,Normal Unit,C
+BT04,075,"Blaupanzer",1,Nova Grappler,Normal Unit,C
+BT04,076,"Toolkit Boy",1,Nova Grappler,Normal Unit,C
+BT04,077,"Fighting Battleship, Prometheus",0,Nova Grappler,Critical Trigger,C
+BT04,078,"Grapple Mania",0,Nova Grappler,Stand Trigger,C
+BT04,079,"Snogal",1,Royal Paladin,Normal Unit,C
+BT04,080,"Brugal",0,Royal Paladin,Normal Unit,C

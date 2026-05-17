@@ -1,0 +1,18 @@
+set,id,name,grade,clan,type,rarity,qtt
+TD09,001,"Eradicator, Vowing Sword Dragon",3,Narukami,Normal Unit,,1
+TD09,002,"Barrage Eradicator, Zion",3,Narukami,Normal Unit,,4
+TD09,003,"Discharging Dragon",3,Narukami,Normal Unit,,2
+TD09,004,"Eradicator, Thunder Boom Dragon",2,Narukami,Normal Unit,,4
+TD09,005,"Eradicator, Spark Rain Dragon",2,Narukami,Normal Unit,,1
+TD09,006,"Assassin Sword Eradicator, Susei",2,Narukami,Normal Unit,,1
+TD09,007,"Dragon Dancer, Veronica",2,Narukami,Normal Unit,,2
+TD09,008,"Lightning Blade Eradicator, Jeem",2,Narukami,Normal Unit,,4
+TD09,009,"Red River Dragoon",1,Narukami,Normal Unit,,4
+TD09,010,"Eradicator, Demolition Dragon",1,Narukami,Normal Unit,,4
+TD09,011,"Dust Storm Eradicator, Toko",1,Narukami,Normal Unit,,4
+TD09,012,"Eradicator of Fire, Kohkaiji",1,Narukami,Normal Unit,,2
+TD09,013,"Stone Bullet Eradicator, Houki",0,Narukami,Normal Unit,,1
+TD09,014,"Eradicator, Yellow Gem Carbuncle",0,Narukami,Critical Trigger,,4
+TD09,015,"Eradicator, Dragon Mage",0,Narukami,Draw Trigger,,4
+TD09,016,"Zephyr Eradicator, Hayate",0,Narukami,Stand Trigger,,4
+TD09,017,"Worm Toxin Eradicator, Seiobo",0,Narukami,Heal Trigger,,4

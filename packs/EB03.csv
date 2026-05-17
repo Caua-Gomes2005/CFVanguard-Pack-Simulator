@@ -1,0 +1,36 @@
+set,id,name,grade,clan,type,rarity
+EB03,001,"Demonic Lord, Dudley Emperor",3,Spike Brothers,Normal Unit,RRR+SP
+EB03,002,"Spectral Duke Dragon",3,Gold Paladin,Normal Unit,RRR+SP
+EB03,003,"Reckless Express",1,Spike Brothers,Normal Unit,RR
+EB03,004,"Martial Arts Mutant, Master Beetle",3,Megacolony,Normal Unit,RR+SP
+EB03,005,"White Dragon Knight, Pendragon",3,Royal Paladin,Normal Unit,RR+SP
+EB03,006,"Origin Mage, Ildona",3,Shadow Paladin,Normal Unit,RR+SP
+EB03,007,"Dragonic Lawkeeper",3,Kagero,Normal Unit,RR+SP
+EB03,008,"Jelly Beans",3,Spike Brothers,Normal Unit,R
+EB03,009,"Dudley Daisy",1,Spike Brothers,Normal Unit,R
+EB03,010,"Bewitching Officer, Lady Butterfly",3,Megacolony,Normal Unit,R
+EB03,011,"Toxic Trooper",2,Megacolony,Normal Unit,R
+EB03,012,"Toxic Soldier",1,Megacolony,Normal Unit,R
+EB03,013,"Gigantech Destroyer",3,Gold Paladin,Normal Unit,R
+EB03,014,"Black Dragon Knight, Vortimer",2,Gold Paladin,Normal Unit,R
+EB03,015,"Black Dragon Whelp, Vortimer",0,Gold Paladin,Normal Unit,R
+EB03,016,"Dudley Douglass",2,Spike Brothers,Normal Unit,C
+EB03,017,"Fierce Leader, Zachary",2,Spike Brothers,Normal Unit,C
+EB03,018,"Field Driller",2,Spike Brothers,Normal Unit,C
+EB03,019,"Medical Manager",1,Spike Brothers,Normal Unit,C
+EB03,020,"Smart Leader, Dark Bringer",0,Spike Brothers,Normal Unit,C
+EB03,021,"Kungfu Kicker",0,Spike Brothers,Stand Trigger,C
+EB03,022,"Iron Fist Mutant, Roly Poly",2,Megacolony,Normal Unit,C
+EB03,023,"Transmutated Thief, Steal Spider",2,Megacolony,Normal Unit,C
+EB03,024,"Machining Mosquito",1,Megacolony,Normal Unit,C
+EB03,025,"Pest Professor, Mad Fly",1,Megacolony,Normal Unit,C
+EB03,026,"Megacolony Battler C",0,Megacolony,Normal Unit,C
+EB03,027,"Awaking Dragonfly",0,Megacolony,Stand Trigger,C
+EB03,028,"Flash Edge Valkyrie",2,Gold Paladin,Normal Unit,C
+EB03,029,"Scout of Darkness, Vortimer",1,Gold Paladin,Normal Unit,C
+EB03,030,"Blade Feather Valkyrie",1,Gold Paladin,Normal Unit,C
+EB03,031,"War-horse, Raging Storm",1,Gold Paladin,Normal Unit,C
+EB03,032,"Falcon Knight of the Azure",0,Gold Paladin,Draw Trigger,C
+EB03,033,"Knight of Determination, Lamorak",2,Royal Paladin,Normal Unit,C
+EB03,034,"Knight of Fighting Spirit, Dordona",2,Shadow Paladin,Normal Unit,C
+EB03,035,"Cross Shot, Garp",2,Kagero,Normal Unit,C

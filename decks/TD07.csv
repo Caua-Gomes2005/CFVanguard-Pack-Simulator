@@ -1,0 +1,19 @@
+set,id,name,grade,clan,type,rarity,qtt
+TD07,001,"Navalgazer Dragon",3,Aqua Force,Normal Unit,,1
+TD07,002,"Marine General of the Full Tides, Xenophon",3,Aqua Force,Normal Unit,,2
+TD07,003,"Key Anchor, Dabid",3,Aqua Force,Normal Unit,,4
+TD07,004,"Tear Knight, Lazarus",2,Aqua Force,Normal Unit,,4
+TD07,005,"Marine General of the Restless Tides, Algos",2,Aqua Force,Normal Unit,,1
+TD07,006,"Coral Assault",2,Aqua Force,Normal Unit,,2
+TD07,007,"Titan of the Infinite Trench",2,Aqua Force,Normal Unit,,4
+TD07,008,"Tear Knight, Theo",1,Aqua Force,Normal Unit,,4
+TD07,009,"Tear Knight, Cyprus",1,Aqua Force,Normal Unit,,4
+TD07,010,"Accelerated Command",1,Aqua Force,Normal Unit,,2
+TD07,011,"Splash Assault",1,Aqua Force,Normal Unit,,1
+TD07,012,"Battle Siren, Cynthia",1,Aqua Force,Normal Unit,,2
+TD07,013,"Battle Siren, Dorothea",1,Aqua Force,Normal Unit,,2
+TD07,014,"Officer Cadet of the First Battle",0,Aqua Force,Normal Unit,,1
+TD07,015,"Battleship Intelligence",0,Aqua Force,Critical Trigger,,4
+TD07,016,"Pyroxene Communications Sea Otter Soldier",0,Aqua Force,Draw Trigger,,4
+TD07,017,"Dolphin Soldier of High Speed Raids",0,Aqua Force,Stand Trigger,,4
+TD07,018,"Medical Officer of the Rainbow Elixir",0,Aqua Force,Heal Trigger,,4

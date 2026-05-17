@@ -1,0 +1,103 @@
+set,id,name,grade,clan,type,rarity
+BT06,001,"Circular Saw, Kiriel",3,Angel Feather,Normal Unit,RRR+SP
+BT06,002,"Battle Cupid, Nociel",1,Angel Feather,Normal Unit,RRR+SP
+BT06,003,"Ice Prison Necromancer, Cocytus",3,Granblue,Normal Unit,RRR+SP
+BT06,004,"Incandescent Lion, Blond Ezel",3,Gold Paladin,Normal Unit,RRR+SP
+BT06,005,"Player of the Holy Bow, Viviane",2,Gold Paladin,Normal Unit,RRR+SP
+BT06,006,"Dragonic Kaiser Vermillion",3,Narukami,Normal Unit,RRR+SP
+BT06,007,"Desert Gunner, Shiden",2,Narukami,Normal Unit,RRR+SP
+BT06,008,"Beast Deity, Azure Dragon",3,Nova Grappler,Normal Unit,RRR+SP
+BT06,009,"Cosmo Healer, Ergodiel",3,Angel Feather,Normal Unit,RR+SP
+BT06,010,"Core Memory, Armaros",2,Angel Feather,Normal Unit,RR
+BT06,011,"Love Machine Gun, Nociel",2,Angel Feather,Normal Unit,RR
+BT06,012,"Pure Keeper, Requiel",1,Angel Feather,Normal Unit,RR
+BT06,013,"Deadly Swordmaster",3,Granblue,Normal Unit,RR
+BT06,014,"Death Seeker, Thanatos",3,Granblue,Normal Unit,RR+SP
+BT06,015,"Knight of Fury, Agravain",3,Gold Paladin,Normal Unit,RR+SP
+BT06,016,"Sleygal Dagger",1,Gold Paladin,Normal Unit,RR
+BT06,017,"Halo Shield, Mark",1,Gold Paladin,Normal Unit,RR
+BT06,018,"Vajra Emperor, Indra",3,Narukami,Normal Unit,RR+SP
+BT06,019,"Dragonic Deathscythe",2,Narukami,Normal Unit,RR
+BT06,020,"Wyvern Guard, Guld",1,Narukami,Normal Unit,RR
+BT06,021,"Mobile Hospital, Feather Palace",3,Angel Feather,Normal Unit,R
+BT06,022,"Drill Bullet, Geniel",3,Angel Feather,Normal Unit,R
+BT06,023,"The Phoenix, Calamity Flame",3,Angel Feather,Normal Unit,R
+BT06,024,"Gattling Shot, Barbiel",2,Angel Feather,Normal Unit,R
+BT06,025,"Fate Healer, Ergodiel",2,Angel Feather,Normal Unit,R
+BT06,026,"Miracle Feather Nurse",0,Angel Feather,Normal Unit,R
+BT06,027,"Master Swordsman, Nightstorm",3,Granblue,Normal Unit,R
+BT06,028,"Skeleton Demon World Knight",2,Granblue,Normal Unit,R
+BT06,029,"Deadly Spirit",2,Granblue,Normal Unit,R
+BT06,030,"Three Star Chef, Pietro",2,Granblue,Normal Unit,R
+BT06,031,"Deadly Nightmare",1,Granblue,Normal Unit,R
+BT06,032,"Knight of Superior Skills, Beaumains",2,Gold Paladin,Normal Unit,R
+BT06,033,"Mage of Calamity, Tripp",2,Gold Paladin,Normal Unit,R
+BT06,034,"Player of the Holy Axe, Nimue",1,Gold Paladin,Normal Unit,R
+BT06,035,"Crimson Lion Cub, Kyrph",0,Gold Paladin,Normal Unit,R
+BT06,036,"Riot General, Gyras",3,Narukami,Normal Unit,R
+BT06,037,"Thunderstorm Dragoon",2,Narukami,Normal Unit,R
+BT06,038,"Demonic Dragon Berserker, Garuda",2,Narukami,Normal Unit,R
+BT06,039,"Desert Gunner, Raien",1,Narukami,Normal Unit,R
+BT06,040,"Photon Bomber Wyvern",1,Narukami,Normal Unit,R
+BT06,041,"Lizard Soldier, Saishin",0,Narukami,Normal Unit,R
+BT06,042,"Beast Deity, White Tiger",0,Nova Grappler,Normal Unit,R
+BT06,043,"Pulse Wave, Adriel",3,Angel Feather,Normal Unit,C
+BT06,044,"Million Ray Pegasus",2,Angel Feather,Normal Unit,C
+BT06,045,"Iron Heart, Mastema",2,Angel Feather,Normal Unit,C
+BT06,046,"Holy Zone, Penemue",2,Angel Feather,Normal Unit,C
+BT06,047,"Burst Shot, Bethnael",1,Angel Feather,Normal Unit,C
+BT06,048,"Thousand Ray Pegasus",1,Angel Feather,Normal Unit,C
+BT06,049,"Heavenly Injector",1,Angel Feather,Normal Unit,C
+BT06,050,"Lancet Shooter",1,Angel Feather,Normal Unit,C
+BT06,051,"Carrier of the Life Water",1,Angel Feather,Normal Unit,C
+BT06,052,"Clutch Rifle Angel",1,Angel Feather,Normal Unit,C
+BT06,053,"Lightning Charger",1,Angel Feather,Normal Unit,C
+BT06,054,"Thermometer Angel",0,Angel Feather,Normal Unit,C
+BT06,055,"Rocket Dash Unicorn",0,Angel Feather,Critical Trigger,C
+BT06,056,"Bouquet Toss Messenger",0,Angel Feather,Draw Trigger,C
+BT06,057,"Aurora Ribbon Pigeon",0,Angel Feather,Stand Trigger,C
+BT06,058,"Critical Hit Angel",0,Angel Feather,Critical Trigger,C
+BT06,059,"Happy Bell, Nociel",0,Angel Feather,Stand Trigger,C
+BT06,060,"Sunny Smile Angel",0,Angel Feather,Heal Trigger,C
+BT06,061,"God-eating Zombie Shark",3,Granblue,Normal Unit,C
+BT06,062,"Stormride Ghost Ship",2,Granblue,Normal Unit,C
+BT06,063,"Undead Pirate of the Frigid Night",2,Granblue,Normal Unit,C
+BT06,064,"Sea Navigator, Silver",2,Granblue,Normal Unit,C
+BT06,065,"Skeleton Colossus",1,Granblue,Normal Unit,C
+BT06,066,"Child Frank",1,Granblue,Normal Unit,C
+BT06,067,"John the Ghostie",1,Granblue,Normal Unit,C
+BT06,068,"Ripple Banshee",1,Granblue,Normal Unit,C
+BT06,069,"Dragon Spirit",1,Granblue,Normal Unit,C
+BT06,070,"Undead Pirate of the Cursed Rifle",1,Granblue,Normal Unit,C
+BT06,071,"Captain Nightkid",0,Granblue,Normal Unit,C
+BT06,072,"Skeleton Assault Troops Captain",0,Granblue,Normal Unit,C
+BT06,073,"Ghoul Cannonball",0,Granblue,Critical Trigger,C
+BT06,074,"Hook-wielding Zombie",0,Granblue,Draw Trigger,C
+BT06,075,"Doctor Rouge",0,Granblue,Heal Trigger,C
+BT06,076,"Hades Steersman",0,Granblue,Stand Trigger,C
+BT06,077,"Gigantech Crusher",3,Gold Paladin,Normal Unit,C
+BT06,078,"Holy Mage, Manawydan",3,Gold Paladin,Normal Unit,C
+BT06,079,"Gigantech Commander",2,Gold Paladin,Normal Unit,C
+BT06,080,"Sacred Guardian Beast, Elephas",2,Gold Paladin,Normal Unit,C
+BT06,081,"Providence Strategist",2,Gold Paladin,Normal Unit,C
+BT06,082,"Knight of Elegant Skills, Gareth",1,Gold Paladin,Normal Unit,C
+BT06,083,"Waving Owl",1,Gold Paladin,Normal Unit,C
+BT06,084,"Little Battler, Tron",1,Gold Paladin,Normal Unit,C
+BT06,085,"Little Fighter, Cron",0,Gold Paladin,Normal Unit,C
+BT06,086,"Greeting Drummer",0,Gold Paladin,Stand Trigger,C
+BT06,087,"Flame of Victory",0,Gold Paladin,Critical Trigger,C
+BT06,088,"Breakthrough Dragon",3,Narukami,Normal Unit,C
+BT06,089,"Hex Cannon Wyvern",2,Narukami,Normal Unit,C
+BT06,090,"Dragon Monk, Ensei",2,Narukami,Normal Unit,C
+BT06,091,"Red River Dragoon",1,Narukami,Normal Unit,C
+BT06,092,"Stealth Fighter",1,Narukami,Normal Unit,C
+BT06,093,"Lizard Soldier, Yowsh",1,Narukami,Normal Unit,C
+BT06,094,"Spark Kid Dragoon",0,Narukami,Normal Unit,C
+BT06,095,"Dragon Dancer, Catharina",0,Narukami,Stand Trigger,C
+BT06,096,"Malevolent Djinn",0,Narukami,Critical Trigger,C
+BT06,097,"Moai the Great",3,Nova Grappler,Normal Unit,C
+BT06,098,"Beast Deity, Black Tortoise",2,Nova Grappler,Normal Unit,C
+BT06,099,"Marvelous Hani",2,Nova Grappler,Normal Unit,C
+BT06,100,"Almighty Reporter",1,Nova Grappler,Normal Unit,C
+BT06,101,"Beast Deity, Scarlet Bird",1,Nova Grappler,Normal Unit,C
+BT06,102,"Red Card Dealer",0,Nova Grappler,Stand Trigger,C

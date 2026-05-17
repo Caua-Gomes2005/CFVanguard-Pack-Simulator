@@ -1,0 +1,18 @@
+set,id,name,grade,clan,type,rarity,qtt
+TD08,001,"Solitary Liberator, Gancelot",3,Gold Paladin,Normal Unit,,1
+TD08,002,"Dignified Gold Dragon",3,Gold Paladin,Normal Unit,,2
+TD08,003,"Onslaught Liberator, Maelzion",3,Gold Paladin,Normal Unit,,4
+TD08,004,"Liberator of Silence, Gallatin",2,Gold Paladin,Normal Unit,,4
+TD08,005,"Liberator of Royalty, Phallon",2,Gold Paladin,Normal Unit,,1
+TD08,006,"Blaster Blade Liberator",2,Gold Paladin,Normal Unit,,1
+TD08,007,"Zoom Down Eagle",2,Gold Paladin,Normal Unit,,2
+TD08,008,"Zoigal Liberator",2,Gold Paladin,Normal Unit,,4
+TD08,009,"Knight of Elegant Skills, Gareth",1,Gold Paladin,Normal Unit,,4
+TD08,010,"Little Liberator, Marron",1,Gold Paladin,Normal Unit,,4
+TD08,011,"Pomerugal Liberator",1,Gold Paladin,Normal Unit,,4
+TD08,012,"Future Liberator, Llew",1,Gold Paladin,Normal Unit,,2
+TD08,013,"Angelic Liberator",0,Gold Paladin,Normal Unit,,1
+TD08,014,"Strike Liberator",0,Gold Paladin,Critical Trigger,,4
+TD08,015,"Armed Liberator, Gwydion",0,Gold Paladin,Draw Trigger,,4
+TD08,016,"Fortune Liberator",0,Gold Paladin,Stand Trigger,,4
+TD08,017,"Elixir Liberator",0,Gold Paladin,Heal Trigger,,4

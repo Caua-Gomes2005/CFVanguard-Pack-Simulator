@@ -1,0 +1,103 @@
+set,id,name,grade,clan,type,rarity
+BT09,001,"Covert Demonic Dragon, Magatsu Storm",3,Murakumo,Normal Unit,RRR+SP
+BT09,002,"Blue Storm Supreme Dragon, Glory Maelstrom",3,Aqua Force,Normal Unit,RRR+SP
+BT09,003,"Goddess of the Sun, Amaterasu",3,Oracle Think Tank,Normal Unit,RRR+SP
+BT09,004,"Ultra Beast Deity, Illuminal Dragon",3,Nova Grappler,Normal Unit,RRR+SP
+BT09,005,"Crimson Impact, Metatron",3,Angel Feather,Normal Unit,RRR+SP
+BT09,006,"Blazing Lion, Platina Ezel",3,Gold Paladin,Normal Unit,RRR+SP
+BT09,007,"Conviction Dragon, Chromejailer Dragon",3,Gold Paladin,Normal Unit,RRR+SP
+BT09,008,"Dragonic Kaiser Vermillion ""THE BLOOD""",3,Narukami,Normal Unit,RRR+SP
+BT09,009,"Fantasy Petal Storm, Shirayuki",3,Murakumo,Normal Unit,RR
+BT09,010,"Platinum Blond Fox Spirit, Tamamo",3,Murakumo,Normal Unit,RR
+BT09,011,"Tri-stinger Dragon",3,Aqua Force,Normal Unit,RR
+BT09,012,"Battle Sister, Cookie",3,Oracle Think Tank,Normal Unit,RR+SP
+BT09,013,"Battler of the Twin Brush, Polaris",3,Great Nature,Normal Unit,RR
+BT09,014,"Halo Shield, Mark",1,Gold Paladin,Normal Unit,RR
+BT09,015,"Lord of the Demonic Winds, Vayu",3,Narukami,Normal Unit,RR
+BT09,016,"Wyvern Guard, Guld",1,Narukami,Normal Unit,RR
+BT09,017,"Starlight Melody Tamer, Farah",3,Pale Moon,Normal Unit,RR+SP
+BT09,018,"Nightmare Summoner, Raqiel",3,Pale Moon,Normal Unit,RR
+BT09,019,"Blaster Blade Spirit",2,Royal Paladin,Normal Unit,RR+SP
+BT09,020,"Blaster Dark Spirit",2,Shadow Paladin,Normal Unit,RR+SP
+BT09,021,"Stealth Dragon, Magatsu Gale",2,Murakumo,Normal Unit,R
+BT09,022,"Stealth Fiend, Oboro Cart",1,Murakumo,Normal Unit,R
+BT09,023,"Stealth Dragon, Magatsu Wind",0,Murakumo,Normal Unit,R
+BT09,024,"Storm Rider, Lysander",3,Aqua Force,Normal Unit,R
+BT09,025,"Storm Rider, Damon",2,Aqua Force,Normal Unit,R
+BT09,026,"Battle Siren, Theresa",2,Aqua Force,Normal Unit,R
+BT09,027,"Storm Rider, Nicolas",1,Aqua Force,Normal Unit,R
+BT09,028,"Tri-holl Dracokid",0,Aqua Force,Normal Unit,R
+BT09,029,"Battle Deity, Susanoo",2,Oracle Think Tank,Normal Unit,R
+BT09,030,"Battle Maiden, Sayorihime",1,Oracle Think Tank,Normal Unit,R
+BT09,031,"Beast Deity, Yamatano Drake",3,Nova Grappler,Normal Unit,R
+BT09,032,"Hollow Nomad",3,Nova Grappler,Normal Unit,R
+BT09,033,"Beast Deity, Golden Anglet",2,Nova Grappler,Normal Unit,R
+BT09,034,"Beast Deity, Blank Marsh",1,Nova Grappler,Normal Unit,R
+BT09,035,"Mobile Hospital, Elysium",3,Angel Feather,Normal Unit,R
+BT09,036,"Knight of Passion, Bagdemagus",2,Gold Paladin,Normal Unit,R
+BT09,037,"Advance of the Black Chains, Kahedin",1,Gold Paladin,Normal Unit,R
+BT09,038,"Dreaming Sage, Corron",0,Gold Paladin,Normal Unit,R
+BT09,039,"Dusty Plasma Dragon",2,Narukami,Normal Unit,R
+BT09,040,"Exorcist Demonic Dragon, Indigo",1,Narukami,Normal Unit,R
+BT09,041,"Barking Wyvern",3,Pale Moon,Normal Unit,R
+BT09,042,"Fire Juggler",1,Pale Moon,Normal Unit,R
+BT09,043,"Spiked Club Stealth Rogue, Arahabaki",3,Murakumo,Normal Unit,C
+BT09,044,"Stealth Beast, Gigantoad",3,Murakumo,Normal Unit,C
+BT09,045,"Stealth Dragon, Royale Nova",2,Murakumo,Normal Unit,C
+BT09,046,"Stealth Beast, Spell Hound",2,Murakumo,Normal Unit,C
+BT09,047,"Stealth Rogue of Summoning, Jiraiya",1,Murakumo,Normal Unit,C
+BT09,048,"Stealth Dragon, Magatsu Breath",1,Murakumo,Normal Unit,C
+BT09,049,"Stealth Beast, Night Panther",1,Murakumo,Normal Unit,C
+BT09,050,"Stealth Beast, Flame Fox",1,Murakumo,Normal Unit,C
+BT09,051,"Stealth Rogue of Body Replacement, Kokuenmaru",0,Murakumo,Normal Unit,C
+BT09,052,"Fox Tamer, Izuna",0,Murakumo,Critical Trigger,C
+BT09,053,"Stealth Fiend, Monster Lantern",0,Murakumo,Draw Trigger,C
+BT09,054,"Stealth Fiend, Rokuro Lady",0,Murakumo,Draw Trigger,C
+BT09,055,"Stealth Fiend, Karakasa Spirit",0,Murakumo,Stand Trigger,C
+BT09,056,"Stealth Fiend, River Child",0,Murakumo,Heal Trigger,C
+BT09,057,"Stealth Beast, Cat Devil",0,Murakumo,Critical Trigger,C
+BT09,058,"Deck Sweeper",1,Aqua Force,Normal Unit,C
+BT09,059,"Light Signals Penguin Soldier",1,Aqua Force,Normal Unit,C
+BT09,060,"Officer Cadet, Astraea",0,Aqua Force,Normal Unit,C
+BT09,061,"Pyroxene Beam Blue Dragon Soldier",0,Aqua Force,Stand Trigger,C
+BT09,062,"Supersonic Sailor",0,Aqua Force,Critical Trigger,C
+BT09,063,"Gentle Jimm",3,Oracle Think Tank,Normal Unit,C
+BT09,064,"Oracle Guardian, Sphinx",2,Oracle Think Tank,Normal Unit,C
+BT09,065,"Rock Witch, GaGa",2,Oracle Think Tank,Normal Unit,C
+BT09,066,"Battle Sister, Cream",1,Oracle Think Tank,Normal Unit,C
+BT09,067,"Machine-gun Talk, Ryan",1,Oracle Think Tank,Normal Unit,C
+BT09,068,"Solar Maiden, Uzume",0,Oracle Think Tank,Normal Unit,C
+BT09,069,"Supple Bamboo Princess, Kaguya",0,Oracle Think Tank,Normal Unit,C
+BT09,070,"Heroic Hani",2,Nova Grappler,Normal Unit,C
+BT09,071,"Transraizer",2,Nova Grappler,Normal Unit,C
+BT09,072,"Burstraizer",1,Nova Grappler,Normal Unit,C
+BT09,073,"Stoic Hani",1,Nova Grappler,Normal Unit,C
+BT09,074,"Transmigrating Evolution, Miraioh",0,Nova Grappler,Normal Unit,C
+BT09,075,"Lionet Heat",0,Nova Grappler,Normal Unit,C
+BT09,076,"Crimson Drive, Aphrodite",2,Angel Feather,Normal Unit,C
+BT09,077,"Examine Angel",2,Angel Feather,Normal Unit,C
+BT09,078,"Crimson Mind, Baruch",1,Angel Feather,Normal Unit,C
+BT09,079,"Emergency Vehicle",1,Angel Feather,Normal Unit,C
+BT09,080,"Candlelight Angel",1,Angel Feather,Normal Unit,C
+BT09,081,"Crimson Heart, Nahas",0,Angel Feather,Normal Unit,C
+BT09,082,"Rampage Cart Angel",0,Angel Feather,Critical Trigger,C
+BT09,083,"Fever Therapy Nurse",0,Angel Feather,Draw Trigger,C
+BT09,084,"Vocal Chicken",3,Great Nature,Normal Unit,C
+BT09,085,"Melodica Cat",2,Great Nature,Normal Unit,C
+BT09,086,"Parabolic Moose",2,Great Nature,Normal Unit,C
+BT09,087,"Barcode Zebra",2,Great Nature,Normal Unit,C
+BT09,088,"Recorder Dog",1,Great Nature,Normal Unit,C
+BT09,089,"Sharpener Beaver",1,Great Nature,Normal Unit,C
+BT09,090,"Protractor Peacock",1,Great Nature,Normal Unit,C
+BT09,091,"Gardening Mole",0,Great Nature,Normal Unit,C
+BT09,092,"Castanet Donkey",0,Great Nature,Draw Trigger,C
+BT09,093,"Holy Mage of the Gale",1,Gold Paladin,Normal Unit,C
+BT09,094,"Stronghold of the Black Chains, Hoel",0,Gold Paladin,Normal Unit,C
+BT09,095,"Dantegal",0,Gold Paladin,Critical Trigger,C
+BT09,096,"Runebau",0,Gold Paladin,Stand Trigger,C
+BT09,097,"Exorcist Mage, Roh Roh",1,Narukami,Normal Unit,C
+BT09,098,"Deity Sealing Kid, Soh Koh",0,Narukami,Normal Unit,C
+BT09,099,"Spark Edge Dracokid",0,Narukami,Critical Trigger,C
+BT09,100,"Exorcist Mage, Lin Lin",0,Narukami,Stand Trigger,C
+BT09,101,"Magical Partner",1,Pale Moon,Normal Unit,C
+BT09,102,"Smiling Presenter",0,Pale Moon,Normal Unit,C

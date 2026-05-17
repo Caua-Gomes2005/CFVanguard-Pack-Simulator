@@ -1,0 +1,104 @@
+set,id,name,grade,clan,type,rarity
+BT10,001,"Pure Heart Jewel Knight, Ashlei",3,Royal Paladin,Normal Unit,RRR + SP
+BT10,002,"Leading Jewel Knight, Salome",3,Royal Paladin,Normal Unit,RRR + SP
+BT10,003,"Liberator of the Round Table, Alfred",3,Gold Paladin,Normal Unit,RRR + SP
+BT10,004,"Oracle Queen, Himiko",3,Genesis,Normal Unit,RRR + SP
+BT10,005,"Eternal Goddess, Iwanagahime",3,Genesis,Normal Unit,RRR + SP
+BT10,006,"Eradicator, Dragonic Descendant",3,Narukami,Normal Unit,RRR + SP
+BT10,007,"Eradicator, Gauntlet Buster Dragon",3,Narukami,Normal Unit,RRR + SP
+BT10,008,"Beast Deity, Ethics Buster",3,Nova Grappler,Normal Unit,RRR + SP
+BT10,009,"Dogmatize Jewel Knight, Sybill",2,Royal Paladin,Normal Unit,RR + SP
+BT10,010,"Flashing Jewel Knight, Iseult",1,Royal Paladin,Normal Unit,RR
+BT10,011,"Halo Liberator, Mark",1,Gold Paladin,Normal Unit,RR
+BT10,012,"Liberator of the Flute, Escrad",2,Gold Paladin,Normal Unit,RR
+BT10,013,"Battle Deity of the Night, Artemis",3,Genesis,Normal Unit,RR + SP
+BT10,014,"Broom Witch, Callaway",2,Genesis,Normal Unit,RR
+BT10,015,"Goddess of Self-sacrifice, Kushinada",1,Genesis,Normal Unit,RR
+BT10,016,"Supreme Army Eradicator, Zuitan",2,Narukami,Normal Unit,RR
+BT10,017,"Eradicator Wyvern Guard, Guld",1,Narukami,Normal Unit,RR
+BT10,018,"Grateful Catapult",3,Spike Brothers,Normal Unit,RR
+BT10,019,"Bad End Dragger",3,Spike Brothers,Normal Unit,RR
+BT10,020,"Cheer Girl, Marilyn",1,Spike Brothers,Normal Unit,RR
+BT10,021,"Dignified Silver Dragon",3,Royal Paladin,Normal Unit,R
+BT10,022,"Fellowship Jewel Knight, Tracie",2,Royal Paladin,Normal Unit,R
+BT10,023,"Jewel Knight, Prizmy",1,Royal Paladin,Normal Unit,R
+BT10,024,"Dreaming Jewel Knight, Tiffany",0,Royal Paladin,Normal Unit,R
+BT10,025,"Fast Chase Liberator, Josephus",1,Gold Paladin,Normal Unit,R
+BT10,026,"Wingal Liberator",0,Gold Paladin,Normal Unit,R + SP
+BT10,027,"Witch of Wolves, Saffron",3,Genesis,Normal Unit,R
+BT10,028,"Battle Maiden, Izunahime",2,Genesis,Normal Unit,R
+BT10,029,"Battle Maiden, Sahohime",2,Genesis,Normal Unit,R
+BT10,030,"Twilight Hunter, Artemis",2,Genesis,Normal Unit,R
+BT10,031,"Battle Maiden, Tatsutahime",1,Genesis,Normal Unit,R
+BT10,032,"Battle Maiden, Tamayorihime",0,Genesis,Normal Unit,R
+BT10,033,"Aiming for the Stars, Artemis",0,Genesis,Normal Unit,R
+BT10,034,"Martial Arts General, Daim",3,Narukami,Normal Unit,R
+BT10,035,"Double Gun Eradicator, Hakusho",2,Narukami,Normal Unit,R
+BT10,036,"Eradicator, Saucer Cannon Wyvern",2,Narukami,Normal Unit,R
+BT10,037,"Ceremonial Bonfire Eradicator, Castor",1,Narukami,Normal Unit,R
+BT10,038,"Ambush Dragon Eradicator, Linchu",0,Narukami,Normal Unit,R
+BT10,039,"Armored Heavy Gunner",3,Nova Grappler,Normal Unit,R
+BT10,040,"Beast Deity, Hatred Chaos",2,Nova Grappler,Normal Unit,R
+BT10,041,"Rabbit House",3,Spike Brothers,Normal Unit,R
+BT10,042,"Dudley Mason",2,Spike Brothers,Normal Unit,R
+BT10,043,"Knight of the Explosive Axe, Gornement",3,Royal Paladin,Normal Unit,C
+BT10,044,"Uncompromising Knight, Ideale",2,Royal Paladin,Normal Unit,C
+BT10,045,"Knight of Details, Claudin",2,Royal Paladin,Normal Unit,C
+BT10,046,"Stinging Jewel Knight, Shellie",1,Royal Paladin,Normal Unit,C
+BT10,047,"Rushhgal",1,Royal Paladin,Normal Unit,C
+BT10,048,"Jewel Knight, Glitmy",0,Royal Paladin,Stand Trigger,C
+BT10,049,"Blazing Jewel Knight, Rachelle",0,Royal Paladin,Critical Trigger,C
+BT10,050,"Primgal",0,Royal Paladin,Normal Unit,C
+BT10,051,"Devoting Jewel Knight, Tabitha",0,Royal Paladin,Draw Trigger,C
+BT10,052,"Ardent Jewel Knight, Polli",0,Royal Paladin,Heal Trigger,C
+BT10,053,"Muungal",3,Gold Paladin,Normal Unit,C
+BT10,054,"Knight of Far Arrows, Saphir",2,Gold Paladin,Normal Unit,C
+BT10,055,"Boulder Smashing Knight, Segwarides",2,Gold Paladin,Normal Unit,C
+BT10,056,"Guiding Falcony",1,Gold Paladin,Normal Unit,C
+BT10,057,"Liberator, Flare Mane Stallion",1,Gold Paladin,Normal Unit,C
+BT10,058,"Holy Squire, Enide",0,Gold Paladin,Normal Unit,C
+BT10,059,"Liberator of Hope, Epona",0,Gold Paladin,Critical Trigger,C
+BT10,060,"Flogal Liberator",0,Gold Paladin,Stand Trigger,C
+BT10,061,"Scheduler Angel",3,Genesis,Normal Unit,C
+BT10,062,"Myth Guard, Antares",3,Genesis,Normal Unit,C
+BT10,063,"Clever Jake",2,Genesis,Normal Unit,C
+BT10,064,"Witch of Owls, Paprika",2,Genesis,Normal Unit,C
+BT10,065,"Myth Guard, Orion",2,Genesis,Normal Unit,C
+BT10,066,"Battle Maiden, Mihikarihime",1,Genesis,Normal Unit,C
+BT10,067,"Bowstring of Heaven and Earth, Artemis",1,Genesis,Normal Unit,C
+BT10,068,"Witch of Cats, Cumin",1,Genesis,Normal Unit,C
+BT10,069,"Snipe Snake",1,Genesis,Normal Unit,C
+BT10,070,"Myth Guard, Sirius",1,Genesis,Normal Unit,C
+BT10,071,"Cluster Hamster",0,Genesis,Normal Unit,C
+BT10,072,"Cyber Tiger",0,Genesis,Critical Trigger,C
+BT10,073,"Battle Maiden, Kukurihime",0,Genesis,Critical Trigger,C
+BT10,074,"Bandit Danny",0,Genesis,Draw Trigger,C
+BT10,075,"Fancy Monkey",0,Genesis,Draw Trigger,C
+BT10,076,"Spark Cockerel",0,Genesis,Stand Trigger,C
+BT10,077,"Patrol Guardian",0,Genesis,Stand Trigger,C
+BT10,078,"Witch of Big Pots, Laurier",0,Genesis,Heal Trigger,C
+BT10,079,"Demonic Dragon Berserker, Sandila",3,Narukami,Normal Unit,C
+BT10,080,"Blood Axe Dragoon",2,Narukami,Normal Unit,C
+BT10,081,"Demonic Dragon Mage, Majila",2,Narukami,Normal Unit,C
+BT10,082,"Sword Dance Eradicator, Hisen",1,Narukami,Normal Unit,C
+BT10,083,"Dragon Dancer, Agnes",1,Narukami,Normal Unit,C
+BT10,084,"Lightning Fist Eradicator, Dui",1,Narukami,Normal Unit,C
+BT10,085,"Eradicator, Strike-dagger Dragon",0,Narukami,Normal Unit,C
+BT10,086,"Djinn of the Thunder Break",0,Narukami,Normal Unit,C
+BT10,087,"Sacred Spear Eradicator, Pollux",0,Narukami,Critical Trigger,C
+BT10,088,"Eradicator, Spy-eye Wyvern",0,Narukami,Stand Trigger,C
+BT10,089,"Bloody Reign",2,Nova Grappler,Normal Unit,C
+BT10,090,"Beast Deity, Hilarity Destroyer",1,Nova Grappler,Normal Unit,C
+BT10,091,"Machinery Angel",1,Nova Grappler,Normal Unit,C
+BT10,092,"Beast Deity, Riot Horn",0,Nova Grappler,Normal Unit,C
+BT10,093,"Battle Arm Leprechaun",0,Nova Grappler,Normal Unit,C
+BT10,094,"Anti-battleroid Gunner",3,Spike Brothers,Normal Unit,C
+BT10,095,"Blow Kiss Olivia",2,Spike Brothers,Normal Unit,C
+BT10,096,"Go for Broke",2,Spike Brothers,Normal Unit,C
+BT10,097,"Charging Bill Collector",2,Spike Brothers,Normal Unit,C
+BT10,098,"UFO",1,Spike Brothers,Normal Unit,C
+BT10,099,"Tyrant Receiver",1,Spike Brothers,Normal Unit,C
+BT10,100,"Dudley Phantom",1,Spike Brothers,Normal Unit,C
+BT10,101,"Reign of Terror, Thermidor",0,Spike Brothers,Normal Unit,C
+BT10,102,"Baby Face Izaac",0,Spike Brothers,Normal Unit,C
+BT10,S12,"Blaster Blade Liberator",2,Gold Paladin,Normal Unit,SP

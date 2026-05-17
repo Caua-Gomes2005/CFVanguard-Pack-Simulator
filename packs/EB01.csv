@@ -1,0 +1,36 @@
+set,id,name,grade,clan,type,rarity
+EB01,001,"Perfect Raizer",3,Nova Grappler,Normal Unit,RRR
+EB01,002,"Dueling Dragon, ZANBAKU",3,Murakumo,Normal Unit,RRR
+EB01,003,"Hi-powered Raizer Custom",2,Nova Grappler,Normal Unit,RR
+EB01,004,"Golden Beast Tamer",3,Pale Moon,Normal Unit,RR
+EB01,005,"Machining Stag Beetle",3,Megacolony,Normal Unit,RR
+EB01,006,"Imperial Daughter",3,Oracle Think Tank,Normal Unit,RR
+EB01,007,"Weather Forecaster, Miss Mist",1,Oracle Think Tank,Normal Unit,RR
+EB01,008,"Miss Splendor",3,Nova Grappler,Normal Unit,R
+EB01,009,"Rocket Hammer Man",1,Nova Grappler,Normal Unit,R
+EB01,010,"Twin Swordsman, MUSASHI",3,Murakumo,Normal Unit,R
+EB01,011,"Promise Daughter",2,Oracle Think Tank,Normal Unit,R
+EB01,012,"Bellicosity Dragon",2,Kagero,Normal Unit,R
+EB01,013,"Guard Griffin",1,Kagero,Normal Unit,R
+EB01,014,"Sage of Guidance, Zenon",1,Royal Paladin,Normal Unit,R
+EB01,015,"Savage King",3,Tachikaze,Normal Unit,R
+EB01,016,"Boomerang Thrower",2,Nova Grappler,Normal Unit,C
+EB01,017,"Raizer Custom",1,Nova Grappler,Normal Unit,C
+EB01,018,"Wall Boy",0,Nova Grappler,Heal Trigger,C
+EB01,019,"Cat Butler",0,Nova Grappler,Normal Unit,C
+EB01,020,"Battleraizer",0,Nova Grappler,Stand Trigger,C
+EB01,021,"Jumping Jill",2,Pale Moon,Normal Unit,C
+EB01,022,"Nitro Juggler",2,Pale Moon,Normal Unit,C
+EB01,023,"Starting Presenter",1,Pale Moon,Normal Unit,C
+EB01,024,"Hoop Magician",0,Pale Moon,Stand Trigger,C
+EB01,025,"Lark Pigeon",0,Pale Moon,Normal Unit,C
+EB01,026,"Swift Archer, FUSHIMI",2,Murakumo,Normal Unit,C
+EB01,027,"Left Arrester",2,Murakumo,Normal Unit,C
+EB01,028,"Right Arrester",2,Murakumo,Normal Unit,C
+EB01,029,"Machining Mantis",2,Megacolony,Normal Unit,C
+EB01,030,"Machining Hornet",1,Megacolony,Normal Unit,C
+EB01,031,"Machining Worker Ant",0,Megacolony,Normal Unit,C
+EB01,032,"Shelter Beetle",0,Megacolony,Critical Trigger,C
+EB01,033,"Lozenge Magus",0,Oracle Think Tank,Heal Trigger,C
+EB01,034,"Prowling Dragon, Striken",2,Kagero,Normal Unit,C
+EB01,035,"Spike Bouncer",2,Spike Brothers,Normal Unit,C

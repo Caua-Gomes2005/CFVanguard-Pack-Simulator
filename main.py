@@ -88,20 +88,31 @@ def rodar_pacote(name):
     return pacote
 
 def atualizar_save(box, pacote):
-    #Quero colocar os valores do pacote na box e se houver repetidos, qtt += 1
-    
-    for index, row in pacote.iterrows():
-        card = box[(box['set'] == row['set']) & (box['id'] == row['id'])]
-        if not card.empty:
-            box.loc[card.index, 'qtt'] += 1
+    """Nova Lógica que resolve a contagem e garante a ordem das colunas"""
+    if pacote is None or pacote.empty:
+        return box
+        
+    for _, row in pacote.iterrows():
+        set_val = row.get('set', '')
+        id_val = row.get('id', '')
+        qtd_add = row.get('qtt', 1)  # Captura cópias já repetidas e evita perda
+        
+        card_mask = (box['set'] == set_val) & (box['id'] == id_val)
+        if card_mask.any():
+            box.loc[card_mask, 'qtt'] += qtd_add
         else:
-            new_card = row.to_dict()
-            new_card['qtt'] = 1
-            #box não tem append, então vou criar um novo dataframe com a nova linha e concatenar com a box
-            new_card_df = pd.DataFrame([new_card])
-            box = pd.concat([box, new_card_df], ignore_index=True)
-           
-    return box
+            new_row = row.to_dict()
+            new_row['qtt'] = qtd_add
+            df_new = pd.DataFrame([new_row])
+            box = pd.concat([box, df_new], ignore_index=True)
+            
+    # Garante a ordem correta independente do que o Pandas tentou fazer
+    cols_ordem = ['set', 'id', 'name', 'grade', 'clan', 'type', 'rarity', 'qtt']
+    for col in cols_ordem:
+        if col not in box.columns:
+            box[col] = ''
+                
+    return box[cols_ordem]
 
 def rodar_box(name, qtt):
     box = pd.DataFrame(columns=['set', 'id', 'name', 'grade', 'clan', 'type', 'rarity', 'qtt'])
@@ -139,6 +150,45 @@ def filtra_colecao(tipo, filtro, data = 'save'):
         for index, row in save.iterrows():
             print(f'0{row["id"]} {row["name"]} - {row["grade"]} - {row["clan"]} - {row["type"]} - {row["rarity"]} - Qtt: {row["qtt"]}')
     return save    
+
+def deck_builder():
+    try:
+        save = pd.read_csv('save.csv')
+    except:
+        print('Você ainda não tem nenhuma carta na coleção! Abra alguns pacotes para começar a colecionar!')
+        return None
+    
+    meu_deck = pd.DataFrame(columns=['set', 'id', 'name', 'grade', 'clan', 'type', 'rarity', 'qtt'])
+
+    while True:
+        print(f'\nNumero de cartas no seu deck: {meu_deck["qtt"].sum()}')
+
+        option = input('1 - Adicionar carta \n2 - Ver Deck \n3 - Remover Carta \n4 - Salvar Deck \n5 - Sair \nDigite o número da opção desejada: ')
+        if option == '1':
+            nome_carta = input('Digite o nome da carta que deseja adicionar: ')
+            
+            resultado = save[save['name'].str.contains(nome_carta, case=False)]
+            if resultado.empty:
+                print('Carta não encontrada na coleção!')
+            
+            else:
+                for _,row in resultado.iterrows():
+                    print(f'0{row["id"]} {row["name"]} - {row["grade"]} - {row["clan"]} - {row["type"]} - {row["rarity"]} - Qtt: {row["qtt"]}')
+
+                if len(resultado) > 1:
+                    print('Multiplas cartas encontradas! Digite o id da carta que deseja adicionar: ')
+                    id_carta = input('Digite o id da carta: ')
+                    resultado = resultado[resultado['id'] == id_carta]
+                
+                quantidade = int(input('Digite a quantidade que deseja adicionar: '))
+                if quantidade <= 0:
+                    print('Quantidade deve ser maior que zero!')
+                elif quantidade <= resultado['qtt'].any():
+                    carta_add = resultado.copy()
+                    carta_add['qtt'] = quantidade
+                    meu_deck = atualizar_save(meu_deck, carta_add)
+                    print(meu_deck)
+
 #Main
 
 keep = True
@@ -155,7 +205,7 @@ while keep == True:
     #Tela de entrada
     print('Seja bem vindo ao CF Vanguard Pack Simulator!')
     print('O que gostaria de fazer?: ')
-    option = input('1 - Rodar pacotes \n2 - Ver pacotes disponíveis \n3 - Ver sua coleção \n4 - Sair \n\nDigite o número da opção desejada: ')
+    option = input('1 - Rodar pacotes \n2 - Ver pacotes disponíveis \n3 - Ver sua coleção\n4 - Deckbuilder \n5 - Sair \n\nDigite o número da opção desejada: ')
 
     if option == '1':
 
@@ -202,6 +252,10 @@ while keep == True:
         input('\nPressione Enter para sair...\n')
 
     elif option == '4':
+        deck_builder()
+        input('\nPressione Enter para sair...\n')
+
+    elif option == '5':
         print('Obrigado por usar o CF Vanguard Pack Simulator! Até a próxima!')
         keep = False
         input('\nPressione Enter para sair...\n')

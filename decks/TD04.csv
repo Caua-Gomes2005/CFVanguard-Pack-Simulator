@@ -1,0 +1,16 @@
+set,id,name,grade,clan,type,rarity,qtt
+TD04,001,"Oracle Guardian, Apollon",3,Oracle Think Tank,Normal Unit,,4
+TD04,002,"Goddess of Flower Divination, Sakuya",3,Oracle Think Tank,Normal Unit,,1
+TD04,003,"Meteor Break Wizard",3,Oracle Think Tank,Normal Unit,,2
+TD04,004,"Oracle Guardian, Wiseman",2,Oracle Think Tank,Normal Unit,,4
+TD04,005,"Security Guardian",2,Oracle Think Tank,Normal Unit,,4
+TD04,006,"Sword Dancer Angel",2,Oracle Think Tank,Normal Unit,,2
+TD04,007,"Oracle Guardian, Gemini",1,Oracle Think Tank,Normal Unit,,4
+TD04,008,"Dark Cat",1,Oracle Think Tank,Normal Unit,,4
+TD04,009,"Weather Girl, Milk",1,Oracle Think Tank,Normal Unit,,4
+TD04,010,"Battle Sister, Maple",1,Oracle Think Tank,Normal Unit,,2
+TD04,011,"Luck Bird",1,Oracle Think Tank,Normal Unit,,3
+TD04,012,"Oracle Guardian, Nike",0,Oracle Think Tank,Critical Trigger,,4
+TD04,013,"Dream Eater",0,Oracle Think Tank,Draw Trigger,,4
+TD04,014,"Victory Maker",0,Oracle Think Tank,Draw Trigger,,4
+TD04,015,"Lozenge Magus",0,Oracle Think Tank,Heal Trigger,,4

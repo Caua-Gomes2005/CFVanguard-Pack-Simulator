@@ -1,0 +1,36 @@
+set,id,name,grade,clan,type,rarity
+EB04,001,"Perfect Raizer",3,Nova Grappler,Normal Unit,RRR+SP
+EB04,002,"Infinite Corrosion Form, Death Army Cosmo Lord",3,Nova Grappler,Normal Unit,RRR+SP
+EB04,003,"Beast Deity, Azure Dragon",3,Nova Grappler,Normal Unit,RR
+EB04,004,"Magician Girl, Kirara",2,Nova Grappler,Normal Unit,RR
+EB04,005,"Hi-powered Raizer Custom",2,Nova Grappler,Normal Unit,RR
+EB04,006,"Death Army Bishop",1,Nova Grappler,Normal Unit,RR
+EB04,007,"Twin Blader",1,Nova Grappler,Normal Unit,RR
+EB04,008,"Gold Rutile",3,Nova Grappler,Normal Unit,R
+EB04,009,"Brutal Joker",3,Nova Grappler,Normal Unit,R
+EB04,010,"Death Metal Droid",3,Nova Grappler,Normal Unit,R
+EB04,011,"Brutal Jack",2,Nova Grappler,Normal Unit,R
+EB04,012,"Death Army Knight",2,Nova Grappler,Normal Unit,R
+EB04,013,"Death Army Lady",2,Nova Grappler,Normal Unit,R
+EB04,014,"Street Bouncer",2,Nova Grappler,Normal Unit,R
+EB04,015,"Death Army Guy",1,Nova Grappler,Normal Unit,R
+EB04,016,"Mr. Invincible",3,Nova Grappler,Normal Unit,C
+EB04,017,"Armored Fairy, Shubiela",3,Nova Grappler,Normal Unit,C
+EB04,018,"Death Army Rook",2,Nova Grappler,Normal Unit,C
+EB04,019,"Boomerang Thrower",2,Nova Grappler,Normal Unit,C
+EB04,020,"NGM Prototype",2,Nova Grappler,Normal Unit,C
+EB04,021,"Marvelous Hani",2,Nova Grappler,Normal Unit,C
+EB04,022,"Tough Boy",1,Nova Grappler,Normal Unit,C
+EB04,023,"Oasis Girl",1,Nova Grappler,Normal Unit,C
+EB04,024,"Screamin' and Dancin' Announcer, Shout",1,Nova Grappler,Normal Unit,C
+EB04,025,"Dancing Wolf",1,Nova Grappler,Normal Unit,C
+EB04,026,"Raizer Custom",1,Nova Grappler,Normal Unit,C
+EB04,027,"Beast Deity, White Tiger",0,Nova Grappler,Normal Unit,C
+EB04,028,"Death Army Pawn",0,Nova Grappler,Normal Unit,C
+EB04,029,"Minimum Raizer",0,Nova Grappler,Critical Trigger,C
+EB04,030,"Three Minutes",0,Nova Grappler,Draw Trigger,C
+EB04,031,"The Gong",0,Nova Grappler,Draw Trigger,C
+EB04,032,"Wall Boy",0,Nova Grappler,Heal Trigger,C
+EB04,033,"Red Lightning",0,Nova Grappler,Critical Trigger,C
+EB04,034,"Turboraizer",0,Nova Grappler,Stand Trigger,C
+EB04,035,"Battleraizer",0,Nova Grappler,Stand Trigger,C

@@ -1,0 +1,36 @@
+set,id,name,grade,clan,type,rarity
+FC01,001,"Steel Spear Liberator, Bleoberis",3,Gold Paladin,Normal Unit,RRR
+FC01,002,"Wisdom Keeper, Metis",3,Genesis,Normal Unit,RRR
+FC01,003,"Eradicator, Electric Shaper Dragon",3,Narukami,Normal Unit,RRR
+FC01,004,"Story Teller",2,Dark Irregulars,Normal Unit,RRR
+FC01,005,"Pretty Celeb, Charlotte",2,Bermuda Triangle,Normal Unit,RRR
+FC01,006,"Dandelion Musketeer, Mirkka",1,Neo Nectar,Normal Unit,RRR
+FC01,007,"Unrivaled Brush Wielder, Ponga",3,Great Nature,Normal Unit,RRR
+FC01,008,"Knight of Silence, Gallatin",2,Royal Paladin,Normal Unit,RRR
+FC01,009,"Fellowship Jewel Knight, Tracie",2,Royal Paladin,Normal Unit,RRR
+FC01,010,"Little Sage, Marron",1,Royal Paladin,Normal Unit,RRR
+FC01,011,"Stinging Jewel Knight, Shellie",1,Royal Paladin,Normal Unit,RRR
+FC01,012,"Black Sage, Charon",1,Shadow Paladin,Normal Unit,RRR
+FC01,013,"Liberator of Silence, Gallatin",2,Gold Paladin,Normal Unit,RRR
+FC01,014,"Knight of Elegant Skills, Gareth",1,Gold Paladin,Normal Unit,RRR
+FC01,015,"Little Liberator, Marron",1,Gold Paladin,Normal Unit,RRR
+FC01,016,"Battle Maiden, Izunahime",2,Genesis,Normal Unit,RRR
+FC01,017,"Battle Maiden, Sahohime",2,Genesis,Normal Unit,RRR
+FC01,018,"Battle Maiden, Mihikarihime",1,Genesis,Normal Unit,RRR
+FC01,019,"Berserk Dragon",2,Kagero,Normal Unit,RRR
+FC01,020,"Bellicosity Dragon",2,Kagero,Normal Unit,RRR
+FC01,021,"Eradicator, Thunder Boom Dragon",2,Narukami,Normal Unit,RRR
+FC01,022,"Red River Dragoon",1,Narukami,Normal Unit,RRR
+FC01,023,"Eradicator, Demolition Dragon",1,Narukami,Normal Unit,RRR
+FC01,024,"Velvet Voice, Raindear",3,Bermuda Triangle,Normal Unit,RRR
+FC01,025,"Water General of Wave-like Spirals, Benedict",3,Aqua Force,Normal Unit,RRR
+FC01,026,"Tear Knight, Theo",1,Aqua Force,Normal Unit,RRR
+FC01,S01,"King of Knights, Alfred",3,Royal Paladin,Normal Unit,SP
+FC01,S02,"Blaster Blade",2,Royal Paladin,Normal Unit,SP
+FC01,S03,"CEO Amaterasu",3,Oracle Think Tank,Normal Unit,SP
+FC01,S04,"Phantom Blaster Dragon",3,Shadow Paladin,Normal Unit,SP
+FC01,S05,"Blaster Dark",2,Shadow Paladin,Normal Unit,SP
+FC01,S06,"Incandescent Lion, Blond Ezel",3,Gold Paladin,Normal Unit,SP
+FC01,S07,"Dragonic Overlord",3,Kagero,Normal Unit,SP
+FC01,S08,"Dragonic Kaiser Vermillion",3,Narukami,Normal Unit,SP
+FC01,S09,"Asura Kaiser",3,Nova Grappler,Normal Unit,SP

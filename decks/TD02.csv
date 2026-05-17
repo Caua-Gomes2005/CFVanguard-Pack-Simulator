@@ -1,0 +1,17 @@
+set,id,name,grade,clan,type,rarity,qtt
+TD02,001,"Dragonic Overlord",3,Kagero,Normal Unit,,2
+TD02,002,"Dragon Monk, Goku",3,Kagero,Normal Unit,,1
+TD02,003,"Demonic Dragon Berserker, Yaksha",3,Kagero,Normal Unit,,4
+TD02,004,"Dragon Knight, Nehalem",2,Kagero,Normal Unit,,4
+TD02,005,"Berserk Dragon",2,Kagero,Normal Unit,,4
+TD02,006,"Wyvern Strike, Tejas",2,Kagero,Normal Unit,,4
+TD02,007,"Embodiment of Armor, Bahr",1,Kagero,Normal Unit,,4
+TD02,008,"Dragon Monk, Gojo",1,Kagero,Normal Unit,,2
+TD02,009,"Flame of Hope, Aermo",1,Kagero,Normal Unit,,4
+TD02,010,"Demonic Dragon Madonna, Joka",1,Kagero,Normal Unit,,2
+TD02,011,"Wyvern Strike, Jarran",1,Kagero,Normal Unit,,2
+TD02,012,"Lizard Runner, Undeux",0,Kagero,Normal Unit,,1
+TD02,013,"Dragon Dancer, Monica",0,Kagero,Draw Trigger,,4
+TD02,014,"Lizard Soldier, Ganlu",0,Kagero,Stand Trigger,,4
+TD02,015,"Dragon Monk, Genjo",0,Kagero,Heal Trigger,,4
+TD02,016,"Demonic Dragon Mage, Rakshasa",0,Kagero,Critical Trigger,,4

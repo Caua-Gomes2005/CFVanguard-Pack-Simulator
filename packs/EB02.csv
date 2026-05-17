@@ -1,0 +1,36 @@
+set,id,name,grade,clan,type,rarity
+EB02,001,"Top Idol, Pacifica",3,Bermuda Triangle,Normal Unit,RRR+SP
+EB02,002,"Top Idol, Riviere",3,Bermuda Triangle,Normal Unit,RRR
+EB02,003,"Bermuda Princess, Lena",3,Bermuda Triangle,Normal Unit,RR
+EB02,004,"Pearl Sisters, Perle",1,Bermuda Triangle,Normal Unit,RR
+EB02,005,"Pearl Sisters, Perla",2,Bermuda Triangle,Normal Unit,RR
+EB02,006,"Girls' Rock, Rio",2,Bermuda Triangle,Normal Unit,RR+SP
+EB02,007,"Mermaid Idol, Elly",1,Bermuda Triangle,Normal Unit,RR
+EB02,008,"Super Idol, Ceram",3,Bermuda Triangle,Normal Unit,R
+EB02,009,"Top Idol, Flores",3,Bermuda Triangle,Normal Unit,R
+EB02,010,"Top Idol, Aqua",2,Bermuda Triangle,Normal Unit,R
+EB02,011,"Super Idol, Riviere",2,Bermuda Triangle,Normal Unit,R
+EB02,012,"Mermaid Idol, Flute",2,Bermuda Triangle,Normal Unit,R
+EB02,013,"Turquoise Blue, Tyrrhenia",1,Bermuda Triangle,Normal Unit,R
+EB02,014,"Bermuda Triangle Cadet, Weddell",0,Bermuda Triangle,Normal Unit,R
+EB02,015,"Bermuda Triangle Cadet, Riviere",0,Bermuda Triangle,Normal Unit,R
+EB02,016,"Velvet Voice, Raindear",3,Bermuda Triangle,Normal Unit,C
+EB02,017,"Rainbow Light, Carine",3,Bermuda Triangle,Normal Unit,C
+EB02,018,"Intelli-idol, Melville",2,Bermuda Triangle,Normal Unit,C
+EB02,019,"Snow White of the Corals, Claire",2,Bermuda Triangle,Normal Unit,C
+EB02,020,"Diva of Clear Waters, Izumi",2,Bermuda Triangle,Normal Unit,C
+EB02,021,"Mermaid Idol, Sedna",1,Bermuda Triangle,Normal Unit,C
+EB02,022,"Prism on the Water, Myrtoa",1,Bermuda Triangle,Normal Unit,C
+EB02,023,"Mermaid Idol, Felucca",1,Bermuda Triangle,Normal Unit,C
+EB02,024,"Mermaid Idol, Riviere",1,Bermuda Triangle,Normal Unit,C
+EB02,025,"Navy Dolphin, Amur",1,Bermuda Triangle,Normal Unit,C
+EB02,026,"Blazer Idols",1,Bermuda Triangle,Normal Unit,C
+EB02,027,"Comical Rainie",0,Bermuda Triangle,Critical Trigger,C
+EB02,028,"Cooking Caspi",0,Bermuda Triangle,Draw Trigger,C
+EB02,029,"Sleeping Beauty, Mousse",0,Bermuda Triangle,Stand Trigger,C
+EB02,030,"Drive Quartet, Ressac",0,Bermuda Triangle,Stand Trigger,C
+EB02,031,"Drive Quartet, Flows",0,Bermuda Triangle,Heal Trigger,C
+EB02,032,"Drive Quartet, Shuplu",0,Bermuda Triangle,Critical Trigger,C
+EB02,033,"Drive Quartet, Bubblin",0,Bermuda Triangle,Draw Trigger,C
+EB02,034,"Bermuda Triangle Cadet, Shizuku",0,Bermuda Triangle,Normal Unit,C
+EB02,035,"Bermuda Triangle Cadet, Caravel",0,Bermuda Triangle,Normal Unit,C

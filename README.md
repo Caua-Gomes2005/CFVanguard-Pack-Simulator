@@ -15,7 +15,9 @@ Como utilizar:
 
 4 - Veja eles na sua coleção
 
-5 - Divirta-se
+5 - Monte seu deck
+
+6 - Divirta-se
 
 Caso abra mais pacotes do que deveria, mude o nome de save_backup.csv para save.csv e apague o ultimo save
 

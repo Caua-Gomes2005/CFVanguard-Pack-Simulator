@@ -1,0 +1,19 @@
+set,id,name,grade,clan,type,rarity,qtt
+TD06,001,"Thunder Break Dragon",3,Narukami,Normal Unit,,1
+TD06,002,"Djinn of the Lightning Flash",3,Narukami,Normal Unit,,2
+TD06,003,"Plasmabite Dragon",3,Narukami,Normal Unit,,4
+TD06,004,"Thunderstorm Dragoon",2,Narukami,Normal Unit,,4
+TD06,005,"Shieldblade Dragoon",2,Narukami,Normal Unit,,4
+TD06,006,"Djinn of the Lightning Flare",2,Narukami,Normal Unit,,1
+TD06,007,"Brightjet Dragon",2,Narukami,Normal Unit,,2
+TD06,008,"Red River Dragoon",1,Narukami,Normal Unit,,4
+TD06,009,"Lizard Soldier, Riki",1,Narukami,Normal Unit,,4
+TD06,010,"Lightning of Hope, Helena",1,Narukami,Normal Unit,,2
+TD06,011,"Djinn of the Lightning Spark",1,Narukami,Normal Unit,,1
+TD06,012,"Dragon Dancer, RaiRai",1,Narukami,Normal Unit,,2
+TD06,013,"Wyvern Supply Unit",1,Narukami,Normal Unit,,2
+TD06,014,"Lizard Soldier, Sishin",0,Narukami,Normal Unit,,1
+TD06,015,"Yellow Gem Carbuncle",0,Narukami,Critical Trigger,,4
+TD06,016,"Old Dragon Mage",0,Narukami,Draw Trigger,,4
+TD06,017,"Zephyr Kid, Hayate",0,Narukami,Stand Trigger,,4
+TD06,018,"Demonic Dragon Nymph, Seiobo",0,Narukami,Heal Trigger,,4

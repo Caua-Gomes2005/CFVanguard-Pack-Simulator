@@ -1,0 +1,19 @@
+set,id,name,grade,clan,type,rarity,qtt
+TD05,001,"Great Silver Wolf, Garmore",3,Gold Paladin,Normal Unit,,1
+TD05,002,"Sleygal Double Edge",3,Gold Paladin,Normal Unit,,2
+TD05,003,"Battlefield Storm, Sagramore",3,Gold Paladin,Normal Unit,,4
+TD05,004,"Knight of Superior Skills, Beaumains",2,Gold Paladin,Normal Unit,,4
+TD05,005,"Sleygal Sword",2,Gold Paladin,Normal Unit,,1
+TD05,006,"Sacred Guardian Beast, Nemean Lion",2,Gold Paladin,Normal Unit,,4
+TD05,007,"Charging Chariot Knight",2,Gold Paladin,Normal Unit,,2
+TD05,008,"Knight of Elegant Skills, Gareth",1,Gold Paladin,Normal Unit,,4
+TD05,009,"Evil Slaying Swordsman, Haugan",1,Gold Paladin,Normal Unit,,4
+TD05,010,"Precipice Whirlwind, Sagramore",1,Gold Paladin,Normal Unit,,2
+TD05,011,"Charjgal",1,Gold Paladin,Normal Unit,,2
+TD05,012,"Blessing Owl",1,Gold Paladin,Normal Unit,,2
+TD05,013,"Silver Fang Witch",1,Gold Paladin,Normal Unit,,1
+TD05,014,"Grassland Breeze, Sagramore",0,Gold Paladin,Normal Unit,,1
+TD05,015,"Silent Punisher",0,Gold Paladin,Critical Trigger,,4
+TD05,016,"Weapons Dealer, Gwydion",0,Gold Paladin,Draw Trigger,,4
+TD05,017,"Fortune Bell",0,Gold Paladin,Stand Trigger,,4
+TD05,018,"Elixir Sommelier",0,Gold Paladin,Heal Trigger,,4

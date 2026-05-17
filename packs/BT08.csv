@@ -1,0 +1,103 @@
+set,id,name,grade,clan,type,rarity
+BT08,001,"Ultimate Dimensional Robo, Great Daiyusha",3,Dimension Police,Normal Unit,RRR+SP
+BT08,002,"Galactic Beast, Zeal",3,Dimension Police,Normal Unit,RRR+SP
+BT08,003,"Arboros Dragon, Sephirot",3,Neo Nectar,Normal Unit,RRR+SP
+BT08,004,"White Lily Musketeer, Cecilia",3,Neo Nectar,Normal Unit,RRR+SP
+BT08,005,"Blue Storm Dragon, Maelstrom",3,Aqua Force,Normal Unit,RRR+SP
+BT08,006,"Hydro Hurricane Dragon",3,Aqua Force,Normal Unit,RRR+SP
+BT08,007,"Storm Rider, Basil",2,Aqua Force,Normal Unit,RRR+SP
+BT08,008,"Sealed Demon Dragon, Dungaree",3,Narukami,Normal Unit,RRR+SP
+BT08,009,"Operator Girl, Mika",2,Dimension Police,Normal Unit,RR+SP
+BT08,010,"Dimensional Robo, Daidragon",2,Dimension Police,Normal Unit,RR
+BT08,011,"Cherry Blossom Musketeer, Augusto",2,Neo Nectar,Normal Unit,RR
+BT08,012,"Lily of the Valley Musketeer, Kaivant",2,Neo Nectar,Normal Unit,RR
+BT08,013,"Maiden of Rainbow Wood",2,Neo Nectar,Normal Unit,RR+SP
+BT08,014,"Water Lily Musketeer, Ruth",1,Neo Nectar,Normal Unit,RR
+BT08,015,"Lily of the Valley Musketeer, Rebecca",1,Neo Nectar,Normal Unit,RR
+BT08,016,"Military Dragon, Raptor Colonel",3,Tachikaze,Normal Unit,RR+SP
+BT08,017,"Destruction Dragon, Dark Rex",3,Tachikaze,Normal Unit,RR+SP
+BT08,018,"Tear Knight, Valeria",2,Aqua Force,Normal Unit,RR
+BT08,019,"Emerald Shield, Paschal",1,Aqua Force,Normal Unit,RR
+BT08,020,"Armed Instructor, Bison",3,Great Nature,Normal Unit,RR
+BT08,021,"Enigman Cyclone",3,Dimension Police,Normal Unit,R
+BT08,022,"Lady Justice",3,Dimension Police,Normal Unit,R
+BT08,023,"Subterranean Beast, Magma Lord",3,Dimension Police,Normal Unit,R
+BT08,024,"Devourer of Planets, Zeal",2,Dimension Police,Normal Unit,R
+BT08,025,"Dimensional Robo, Dailander",1,Dimension Police,Normal Unit,R
+BT08,026,"Dimensional Robo, Goyusha",0,Dimension Police,Normal Unit,R
+BT08,027,"Larva Beast, Zeal",0,Dimension Police,Normal Unit,R
+BT08,028,"Arboros Dragon, Timber",2,Neo Nectar,Normal Unit,R
+BT08,029,"Arboros Dragon, Ratoon",0,Neo Nectar,Normal Unit,R
+BT08,030,"Military Dragon, Raptor Captain",2,Tachikaze,Normal Unit,R
+BT08,031,"Winged Dragon, Slashptero",2,Tachikaze,Normal Unit,R
+BT08,032,"Assault Dragon, Pachyphalos",2,Tachikaze,Normal Unit,R
+BT08,033,"Winged Dragon, Beamptero",1,Tachikaze,Normal Unit,R
+BT08,034,"Military Dragon, Raptor Soldier",0,Tachikaze,Normal Unit,R
+BT08,035,"Storm Rider, Diamantes",3,Aqua Force,Normal Unit,R
+BT08,036,"Tear Knight, Lazarus",2,Aqua Force,Normal Unit,R
+BT08,037,"Storm Rider, Eugen",1,Aqua Force,Normal Unit,R
+BT08,038,"Torpedo Rush Dragon",1,Aqua Force,Normal Unit,R
+BT08,039,"Aqua Breath Dracokid",0,Aqua Force,Normal Unit,R
+BT08,040,"Thunder Spear Wielding Exorcist Knight",2,Narukami,Normal Unit,R
+BT08,041,"Compass Lion",2,Great Nature,Normal Unit,R
+BT08,042,"Coiling Duckbill",1,Great Nature,Normal Unit,R
+BT08,043,"Interdimensional Ninja, Tsukikage",3,Dimension Police,Normal Unit,C
+BT08,044,"Cosmic Mothership",2,Dimension Police,Normal Unit,C
+BT08,045,"Cosmic Rider",2,Dimension Police,Normal Unit,C
+BT08,046,"Assault Monster, Gunrock",2,Dimension Police,Normal Unit,C
+BT08,047,"Eye of Destruction, Zeal",1,Dimension Police,Normal Unit,C
+BT08,048,"Dimensional Robo, Daimariner",1,Dimension Police,Normal Unit,C
+BT08,049,"Mysterious Navy Admiral, Gogoth",1,Dimension Police,Normal Unit,C
+BT08,050,"Psychic Grey",1,Dimension Police,Normal Unit,C
+BT08,051,"Speedster",1,Dimension Police,Normal Unit,C
+BT08,052,"Fighting Saucer",1,Dimension Police,Normal Unit,C
+BT08,053,"Warrior of Destiny, Dai",0,Dimension Police,Normal Unit,C
+BT08,054,"Gem Monster, Jewelmine",0,Dimension Police,Draw Trigger,C
+BT08,055,"Noise Monster, Decibelon",0,Dimension Police,Stand Trigger,C
+BT08,056,"Dissection Monster, Kaizon",0,Dimension Police,Heal Trigger,C
+BT08,057,"Dimensional Robo, Daibattles",0,Dimension Police,Critical Trigger,C
+BT08,058,"Black Lily Musketeer, Hermann",3,Neo Nectar,Normal Unit,C
+BT08,059,"World Snake, Ouroboros",3,Neo Nectar,Normal Unit,C
+BT08,060,"Exploding Tomato",3,Neo Nectar,Normal Unit,C
+BT08,061,"World Bearing Turtle, Ahkbara",2,Neo Nectar,Normal Unit,C
+BT08,062,"Tulip Musketeer, Almira",2,Neo Nectar,Normal Unit,C
+BT08,063,"Poison Mushroom",2,Neo Nectar,Normal Unit,C
+BT08,064,"Arboros Dragon, Branch",1,Neo Nectar,Normal Unit,C
+BT08,065,"Tulip Musketeer, Mina",1,Neo Nectar,Normal Unit,C
+BT08,066,"Boon Bana-na",1,Neo Nectar,Normal Unit,C
+BT08,067,"Fruits Basket Elf",1,Neo Nectar,Normal Unit,C
+BT08,068,"Broccolini Musketeer, Kirah",0,Neo Nectar,Normal Unit,C
+BT08,069,"Night Queen Musketeer, Daniel",0,Neo Nectar,Critical Trigger,C
+BT08,070,"Four Leaf Fairy",0,Neo Nectar,Draw Trigger,C
+BT08,071,"Maiden of Morning Glory",0,Neo Nectar,Stand Trigger,C
+BT08,072,"Hibiscus Musketeer, Hanah",0,Neo Nectar,Heal Trigger,C
+BT08,073,"Savage War Chief",3,Tachikaze,Normal Unit,C
+BT08,074,"Citadel Dragon, Brachiocastle",3,Tachikaze,Normal Unit,C
+BT08,075,"Savage Warlock",2,Tachikaze,Normal Unit,C
+BT08,076,"Carrier Dragon, Brachiocarrier",2,Tachikaze,Normal Unit,C
+BT08,077,"Military Dragon, Raptor Sergeant",1,Tachikaze,Normal Unit,C
+BT08,078,"Savage Magus",1,Tachikaze,Normal Unit,C
+BT08,079,"Fortress Ammonite",1,Tachikaze,Normal Unit,C
+BT08,080,"Transport Dragon, Brachioporter",1,Tachikaze,Normal Unit,C
+BT08,081,"Baby Ptero",0,Tachikaze,Normal Unit,C
+BT08,082,"Dragon Bird, Firepteryx",0,Tachikaze,Critical Trigger,C
+BT08,083,"Carry Trilobite",0,Tachikaze,Draw Trigger,C
+BT08,084,"Matriarch's Bombardment Beast",0,Tachikaze,Stand Trigger,C
+BT08,085,"Ironclad Dragon, Steelsaurus",0,Tachikaze,Heal Trigger,C
+BT08,086,"Titan of the Pyroxene Mine",3,Aqua Force,Normal Unit,C
+BT08,087,"Distant Sea Advisor, Vassilis",3,Aqua Force,Normal Unit,C
+BT08,088,"Veteran Strategic Commander",2,Aqua Force,Normal Unit,C
+BT08,089,"Whale Supply Fleet, Kairin Maru",2,Aqua Force,Normal Unit,C
+BT08,090,"Tear Knight, Theo",1,Aqua Force,Normal Unit,C
+BT08,091,"Stream Trooper",1,Aqua Force,Normal Unit,C
+BT08,092,"Reliable Strategic Commander",1,Aqua Force,Normal Unit,C
+BT08,093,"Officer Cadet, Erikk",0,Aqua Force,Normal Unit,C
+BT08,094,"Mothership Intelligence",0,Aqua Force,Critical Trigger,C
+BT08,095,"Enemy Seeking Seagull Soldier",0,Aqua Force,Stand Trigger,C
+BT08,096,"Black Celestial Maiden, Kali",3,Narukami,Normal Unit,C
+BT08,097,"Dragon Monk, Kinkaku",2,Narukami,Normal Unit,C
+BT08,098,"Lightning Sword Wielding Exorcist Knight",1,Narukami,Normal Unit,C
+BT08,099,"Dragon Monk, Ginkaku",1,Narukami,Normal Unit,C
+BT08,100,"Exorcist Mage, Koh Koh",0,Narukami,Normal Unit,C
+BT08,101,"Mischievous Girl, Kyon-she",0,Narukami,Draw Trigger,C
+BT08,102,"Blackboard Parrot",0,Great Nature,Normal Unit,C
